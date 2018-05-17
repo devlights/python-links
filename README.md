@@ -361,7 +361,6 @@
 - [Anaconda: ビギナーズガイド](https://qiita.com/Scstechr/items/0793d7d01b9620bf47df)
 - [Let’s Synchronize Threads in Python](https://www.codementor.io/saurabhchaturvedi63/let-s-synchronize-threads-in-python-b8pwcz2d1)
 - [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
-- [Debugging memory usage in a live Python web app](Debugging memory usage in a live Python web app)
 - [Python3.5で実装されたasync/awaitを使って軽量スレッドの性能ベンチマーク](https://qiita.com/haminiku/items/0aaf87e9a52ed41b60a7)
 - [Generate wordcloud of followers' descriptions](https://gist.github.com/simecek/ac263a371830cafe309d88a5d099b887)
 - [Django のおすすめライブラリ](https://qiita.com/odoku/items/90ebec6657c736c90f93)
