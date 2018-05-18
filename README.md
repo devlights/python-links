@@ -7,6 +7,7 @@
 - [Github](https://github.com/devlights/python-links#github)
 - [RealPython](https://github.com/devlights/python-links#realpython)
 - [Qiita](https://github.com/devlights/python-links#qiita)
+- [PyQT](https://github.com/devlights/python-links#pyqt)
 
 ---
 
@@ -60,6 +61,9 @@
 
 # RealPython
 
+- [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+- [Python Metaclasses](https://realpython.com/python-metaclasses/)
+- [Python 3's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
 - [Pure Python vs NumPy vs TensorFlow Performance Comparison](https://realpython.com/numpy-tensorflow-performance/)
 - [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
 - [Python Virtual Environments – A Primer](https://realpython.com/python-virtual-environments-a-primer/)
@@ -154,8 +158,27 @@
 - [PythonでCSVファイルを転置する その1](https://qiita.com/tak/items/029b6c880ea56ddd0033)
 - [Python デコレータ再入門 デコレータは種類別に覚えよう](https://qiita.com/makky05/items/1be6cf0f1f238b5ba01b)
 
+# PyQT
+
+- [Python/PyQt](http://wiki.examind.net/index.php?Python/PyQt)
+- [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
+- [PyQt5チュートリアル日本語まとめ[1] - First programs in PyQt5](https://qiita.com/puuuii/items/92c0c8195aafe5904ab2)
+- [PyQt5チュートリアル日本語まとめ[2] - Menus and toolbars in PyQt5](https://qiita.com/puuuii/items/b2a368bab2d6d6eae584)
+- [PyQt5チュートリアル日本語まとめ[3] - Layout management in PyQt5](https://qiita.com/puuuii/items/c1720f866279e53a5c6f)
+- [PyQt5チュートリアル日本語まとめ[4] - Events and signals in PyQt5](https://qiita.com/puuuii/items/695f5ac83476fe94044a)
+- [PyQt5チュートリアル日本語まとめ[5] - Dialogs in PyQt5](https://qiita.com/puuuii/items/2f04489e0b572a4cc8e3)
+- [PyQt5チュートリアル日本語まとめ[6] - PyQt5 widgets](https://qiita.com/puuuii/items/aecdb032885fa60836bb)
+- [PyQt5チュートリアル日本語まとめ[7] - PyQt5 widgets II](https://qiita.com/puuuii/items/294ffd36d6000a78104c)
+- [PyQt5チュートリアル日本語まとめ[8] - Drag and drop in PyQt5](https://qiita.com/puuuii/items/a490ba923c1eda83e9ee)
+- [PyQt5チュートリアル日本語まとめ[9] - Painting in PyQt5](https://qiita.com/puuuii/items/a00faf13e2baf36962bc)
+- [PyQt5チュートリアル日本語まとめ[10] - Custom widgets in PyQt5](https://qiita.com/puuuii/items/a34ec92842bc306fc123)
+- [PyQt5チュートリアル日本語まとめ[11] - Tetris in PyQt5](https://qiita.com/puuuii/items/d0ec47d3b6f8c6fb58f0)
+
+
 # 未整理
 
+- [Create TUI on Python](https://medium.com/@bad_day/create-tui-on-python-71377849879d)
+- [Basic Python Interview Questions and Answers](https://simpliv.wordpress.com/2018/05/02/basic-python-interview-questions-and-answers/)
 - [Python SQLite3 Basics](http://nitratine.net/python-sqlite3-basics/)
 - [Getting started with Python testing](https://mattjegan.com/Getting-started-with-Python-testing/)
 - [Scraping 10000 tweets in 60 seconds using celery, RabbitMQ and Docker cluster with rotating proxy](http://thepythondjango.com/scraping-10000-tweets-in-60-seconds-using-celery-rabbitmq-and-docker-clusterwith-rotating-proxy/)
@@ -213,7 +236,6 @@
 - [Testing and Deploying Python Projects with Travis CI](http://luisquintanilla.me/2018/02/18/testing-deploying-python-projects-travisci/)
 - [Testing Python with Travis CI in Just 3 Steps](https://www.smartfile.com/blog/testing-python-with-travis-ci/)
 - [Using conda with Travis CI](https://conda.io/docs/user-guide/tasks/use-conda-with-travis-ci.html)
-- [Python/PyQt](http://wiki.examind.net/index.php?Python/PyQt)
 - [Efficient date range overlap calculation in python?](https://stackoverflow.com/questions/9044084/efficient-date-range-overlap-calculation-in-python)
 - [Python - Basic Unit Testing and Test Driven Development](http://dev.prodigi.us/post/python-basic-unit-testing-and-test-driven-devel/)
 - [Understanding the Transform Function in Pandas](http://pbpython.com/pandas_transform.html)
@@ -321,7 +343,6 @@
 - [How to Create Your First Python 3.6 AWS Lambda Function](https://www.fullstackpython.com/blog/aws-lambda-python-3-6.html)
 - [Building a chat room using Django Channels](https://www.ploggingdev.com/2017/11/building-a-chat-room-using-django-channels/)
 - [Open sourcing ptracer, a syscall-tracing library for Python](https://medium.com/@Pinterest_Engineering/open-sourcing-ptracer-a-syscall-tracing-library-for-python-b0fe0d91105d)
-- [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
 - [Python tutorial](http://zetcode.com/lang/python/)
 - [Openpyxl tutorial](http://zetcode.com/articles/openpyxl/)
 - [Python CSV tutorial - read write CSV](http://zetcode.com/python/csv/)
@@ -342,17 +363,6 @@
 - [Tkinter tutorial](http://zetcode.com/gui/tkinter/)
 - [wxPython tutorial](http://zetcode.com/wxpython/)
 - [wxWidgets tutorial](http://zetcode.com/gui/wxwidgets/)
-- [PyQt5チュートリアル日本語まとめ[1] - First programs in PyQt5](https://qiita.com/puuuii/items/92c0c8195aafe5904ab2)
-- [PyQt5チュートリアル日本語まとめ[2] - Menus and toolbars in PyQt5](https://qiita.com/puuuii/items/b2a368bab2d6d6eae584)
-- [PyQt5チュートリアル日本語まとめ[3] - Layout management in PyQt5](https://qiita.com/puuuii/items/c1720f866279e53a5c6f)
-- [PyQt5チュートリアル日本語まとめ[4] - Events and signals in PyQt5](https://qiita.com/puuuii/items/695f5ac83476fe94044a)
-- [PyQt5チュートリアル日本語まとめ[5] - Dialogs in PyQt5](https://qiita.com/puuuii/items/2f04489e0b572a4cc8e3)
-- [PyQt5チュートリアル日本語まとめ[6] - PyQt5 widgets](https://qiita.com/puuuii/items/aecdb032885fa60836bb)
-- [PyQt5チュートリアル日本語まとめ[7] - PyQt5 widgets II](https://qiita.com/puuuii/items/294ffd36d6000a78104c)
-- [PyQt5チュートリアル日本語まとめ[8] - Drag and drop in PyQt5](https://qiita.com/puuuii/items/a490ba923c1eda83e9ee)
-- [PyQt5チュートリアル日本語まとめ[9] - Painting in PyQt5](https://qiita.com/puuuii/items/a00faf13e2baf36962bc)
-- [PyQt5チュートリアル日本語まとめ[10] - Custom widgets in PyQt5](https://qiita.com/puuuii/items/a34ec92842bc306fc123)
-- [PyQt5チュートリアル日本語まとめ[11] - Tetris in PyQt5](https://qiita.com/puuuii/items/d0ec47d3b6f8c6fb58f0)
 - [Going Fast with SQLite and Python](http://charlesleifer.com/blog/going-fast-with-sqlite-and-python/)
 - [shutil — High-level File Operations — PyMOTW 3](https://pymotw.com/3/shutil/)
 - [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)
