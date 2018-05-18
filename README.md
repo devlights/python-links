@@ -4,6 +4,14 @@
 
 ---
 
+- [Pure Python vs NumPy vs TensorFlow Performance Comparison](https://realpython.com/numpy-tensorflow-performance/)
+- [Python SQLite3 Basics](http://nitratine.net/python-sqlite3-basics/)
+- [Getting started with Python testing](https://mattjegan.com/Getting-started-with-Python-testing/)
+- [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
+- [conda-execute](https://github.com/pelson/conda-execute)
+- [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/)
+- [ファイルの更新をきっかけにコマンド実行 (python編)](https://qiita.com/ksato9700/items/ea4b769d010e8cf1fb0c)
+- [Scraping 10000 tweets in 60 seconds using celery, RabbitMQ and Docker cluster with rotating proxy](http://thepythondjango.com/scraping-10000-tweets-in-60-seconds-using-celery-rabbitmq-and-docker-clusterwith-rotating-proxy/)
 - [6 things you’re missing out on by never using classes in your Python code](https://dbader.org/blog/6-things-youre-missing-out-on-by-never-using-classes-in-your-python-code)
 - [Python Virtual Environments – A Primer](https://realpython.com/python-virtual-environments-a-primer/)
 - [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
