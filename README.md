@@ -333,7 +333,11 @@
 - [cmd — Line-oriented Command Processors](https://pymotw.com/3/cmd/)
 - [shutil — High-level File Operations — PyMOTW 3](https://pymotw.com/3/shutil/)
 - [struct — Binary Data Structures — PyMOTW 3](https://doughellmann.com/blog/2017/06/12/struct-binary-data-structures-pymotw-3/)
+- [pathlib — Filesystem Paths as Objects — PyMOTW 3](https://pymotw.com/3/pathlib/)
 - [THE SET THEORY AND PYTHON + TIPS & TRICKS](https://www.idiotinside.com/2017/08/19/set-theory-and-python-tips-tricks/)
+- [Python Iterators: A Step-By-Step Introduction](https://dbader.org/blog/python-iterators)
+- [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
+- [Python SQLite3 Basics](http://nitratine.net/python-sqlite3-basics/)
 
 # WebFrameworks
 
@@ -358,7 +362,6 @@
 # Misc
 
 - [Create TUI on Python](https://medium.com/@bad_day/create-tui-on-python-71377849879d)
-- [Python SQLite3 Basics](http://nitratine.net/python-sqlite3-basics/)
 - [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html)
 - [Overview of Pandas Data Types](http://pbpython.com/pandas_dtypes.html)
@@ -416,7 +419,6 @@
 - [Going Fast with SQLite and Python](http://charlesleifer.com/blog/going-fast-with-sqlite-and-python/)
 - [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
-- [pathlib — Filesystem Paths as Objects — PyMOTW 3](https://pymotw.com/3/pathlib/)
 - [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
 - [Explore Happiness Data Using Python Pivot Tables](https://www.dataquest.io/blog/pandas-pivot-table/?utm_content=buffer0f117&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Python Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-sep-2017-e42c26816ab9)
@@ -429,9 +431,7 @@
 - [Pythonの環境構築を自分なりに整理してみる](https://medium.com/@chezou/python%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%82%92%E8%87%AA%E5%88%86%E3%81%AA%E3%82%8A%E3%81%AB%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-dc8d8f2fe989)
 - [Getting started with Celery and RabbitMQ](http://suzannewang.com/celery-rabbitmq-tutorial/)
 - [Building a Bullet Graph in Python](http://pbpython.com/bullet-graph.html)
-- [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 - [How To Scrape Web Pages with Beautiful Soup and Python 3](https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3)
-- [Python Iterators: A Step-By-Step Introduction](https://dbader.org/blog/python-iterators)
 - [Introducing Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503)
 - [Pandasを使ったデータ操作の基本](http://cocodrips.hateblo.jp/entry/2017/07/30/185430)
 - [Real time Python via TCP (Part I)](https://www.databrawl.com/2017/04/27/real-time-python-via-tcp/)
