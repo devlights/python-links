@@ -152,7 +152,7 @@
 - [Django のおすすめライブラリ](https://qiita.com/odoku/items/90ebec6657c736c90f93)
 - [Python3とJavaでクラスを書いてみた](https://qiita.com/Sekky0905/items/5b4105a9dcb6e0ff354d)
 - [PythonでCSVファイルを転置する その1](https://qiita.com/tak/items/029b6c880ea56ddd0033)
-- [Python デコレータ再入門　 ~デコレータは種類別に覚えよう~](https://qiita.com/makky05/items/1be6cf0f1f238b5ba01b)
+- [Python デコレータ再入門 デコレータは種類別に覚えよう](https://qiita.com/makky05/items/1be6cf0f1f238b5ba01b)
 
 # 未整理
 
