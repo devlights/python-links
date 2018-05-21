@@ -239,6 +239,7 @@
 - [Parallel Processing in Python](http://stackabuse.com/parallel-processing-in-python/)
 - [Let’s Synchronize Threads in Python](https://www.codementor.io/saurabhchaturvedi63/let-s-synchronize-threads-in-python-b8pwcz2d1)
 - [Parallel Python with Numba and ParallelAccelerator](https://www.anaconda.com/blog/developer-blog/parallel-python-with-numba-and-parallelaccelerator/)
+- [Developing an Asynchronous Task Queue in Python](https://testdriven.io/developing-an-asynchronous-task-queue-in-python)
 
 # Python
 
@@ -358,9 +359,12 @@
 - [A Complete Beginner's Guide to Django Series](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 - [A Minimal Django Application](https://simpleisbetterthancomplex.com/article/2017/08/07/a-minimal-django-application.html)
 - [Step-by-Step Guide on Deploying a Simple Flask App to Heroku](https://pybit.es/deploy-flask-heroku.html)
+- [Django・WSGIミドルウェア入門/django-congress-jp-2018-talk](https://speakerdeck.com/thinkami/django-congress-jp-2018-talk)
 
 # Misc
 
+- [A Complete Machine Learning Walk-Through in Python: Part Two](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
+- [A Complete Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 - [Create TUI on Python](https://medium.com/@bad_day/create-tui-on-python-71377849879d)
 - [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html)
