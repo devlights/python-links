@@ -66,6 +66,7 @@
 
 # RealPython
 
+- [Introduction to Python 3](https://realpython.com/python-introduction/)
 - [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
 - [Python Metaclasses](https://realpython.com/python-metaclasses/)
 - [Python 3's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
@@ -360,6 +361,7 @@
 - [A Minimal Django Application](https://simpleisbetterthancomplex.com/article/2017/08/07/a-minimal-django-application.html)
 - [Step-by-Step Guide on Deploying a Simple Flask App to Heroku](https://pybit.es/deploy-flask-heroku.html)
 - [Django・WSGIミドルウェア入門/django-congress-jp-2018-talk](https://speakerdeck.com/thinkami/django-congress-jp-2018-talk)
+- [Django未経験者に送るDjango入門ロードマップ](https://qiita.com/nossey/items/03e114a7b728a8b2ae55)
 
 # Misc
 
@@ -448,3 +450,4 @@
 - [Ftputil—a high-level FTP client library for Python](http://ftputil.sschwarzer.net/trac)
 - [Distributed Systems with ZeroMQ](http://blog.pythonisito.com/2012/08/distributed-systems-with-zeromq.html)
 - [Generating mock data using Mimesis: Part I](https://medium.com/wemake-services/generating-mock-data-using-elizabeth-part-i-ca5a55b8027c)
+- [Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない](https://qiita.com/tag1216/items/13b032348c893667862a)
