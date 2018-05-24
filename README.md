@@ -18,6 +18,7 @@
 
 # Github
 
+- [blinker](https://github.com/jek/blinker)
 - [ciso8601](https://github.com/closeio/ciso8601)
 - [conda-execute](https://github.com/pelson/conda-execute)
 - [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
