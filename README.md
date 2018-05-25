@@ -67,6 +67,7 @@
 
 # RealPython
 
+- [Python 3 Installation & Setup Guide](https://realpython.com/installing-python/)
 - [Introduction to Python 3](https://realpython.com/python-introduction/)
 - [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
 - [Python Metaclasses](https://realpython.com/python-metaclasses/)
