@@ -18,6 +18,7 @@
 
 # Github
 
+- [xdoctest](https://github.com/Erotemic/xdoctest)
 - [blinker](https://github.com/jek/blinker)
 - [ciso8601](https://github.com/closeio/ciso8601)
 - [conda-execute](https://github.com/pelson/conda-execute)
@@ -67,6 +68,7 @@
 
 # RealPython
 
+- [Interacting with Python](https://realpython.com/interacting-with-python/)
 - [Python 3 Installation & Setup Guide](https://realpython.com/installing-python/)
 - [Introduction to Python 3](https://realpython.com/python-introduction/)
 - [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
@@ -246,6 +248,9 @@
 
 # Python
 
+- [Enhance your Python with an interactive shell](https://fedoramagazine.org/enhance-python-interactive-shell/)
+- [Improve your Python projects with mypy](https://fedoramagazine.org/improve-python-projects-mypy/)
+- [Getting started with the Python debugger](https://fedoramagazine.org/getting-started-python-debugger/)
 - [Basic Python Interview Questions and Answers](https://simpliv.wordpress.com/2018/05/02/basic-python-interview-questions-and-answers/)
 - [Getting started with Python testing](https://mattjegan.com/Getting-started-with-Python-testing/)
 - [6 things you’re missing out on by never using classes in your Python code](https://dbader.org/blog/6-things-youre-missing-out-on-by-never-using-classes-in-your-python-code)
@@ -367,6 +372,8 @@
 
 # Misc
 
+- [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
+- [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
 - [A Complete Machine Learning Walk-Through in Python: Part Three](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
 - [A Complete Machine Learning Walk-Through in Python: Part Two](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
 - [A Complete Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
