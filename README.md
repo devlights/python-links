@@ -18,6 +18,7 @@
 
 # Github
 
+- [mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
 - [xdoctest](https://github.com/Erotemic/xdoctest)
 - [blinker](https://github.com/jek/blinker)
 - [ciso8601](https://github.com/closeio/ciso8601)
