@@ -18,6 +18,8 @@
 
 # Github
 
+- [crayons](https://github.com/kennethreitz/crayons)
+- [pypette](https://github.com/csurfer/pypette)
 - [python-atomicwrites](https://github.com/untitaker/python-atomicwrites)
 - [mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
 - [xdoctest](https://github.com/Erotemic/xdoctest)
