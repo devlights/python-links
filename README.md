@@ -18,6 +18,7 @@
 
 # Github
 
+- [python-atomicwrites](https://github.com/untitaker/python-atomicwrites)
 - [mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
 - [xdoctest](https://github.com/Erotemic/xdoctest)
 - [blinker](https://github.com/jek/blinker)
