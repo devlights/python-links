@@ -62,7 +62,6 @@
 - [ptracer](https://github.com/pinterest/ptracer)
 - [wtfpython](https://github.com/satwikkansal/wtfPython)
 - [curry.py](https://github.com/chrfrasco/curry.py)
-- [pypette](https://github.com/csurfer/pypette)
 - [PySchemes](https://github.com/shivylp/pyschemes)
 - [Why Python is Slow: Looking Under the Hood](http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 - [halo -- Beautiful terminal spinners in Python](https://github.com/ManrajGrover/halo)
@@ -72,6 +71,7 @@
 
 # RealPython
 
+- [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
 - [Interacting with Python](https://realpython.com/interacting-with-python/)
 - [Python 3 Installation & Setup Guide](https://realpython.com/installing-python/)
 - [Introduction to Python 3](https://realpython.com/python-introduction/)
