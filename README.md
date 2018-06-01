@@ -18,6 +18,7 @@
 
 # Github
 
+- [colorama](https://github.com/tartley/colorama)
 - [crayons](https://github.com/kennethreitz/crayons)
 - [pypette](https://github.com/csurfer/pypette)
 - [python-atomicwrites](https://github.com/untitaker/python-atomicwrites)
