@@ -18,6 +18,9 @@
 
 # Github
 
+- [click](https://github.com/pallets/click)
+- [docopt](https://github.com/docopt/docopt)
+- [python-fire](https://github.com/google/python-fire)
 - [colorama](https://github.com/tartley/colorama)
 - [crayons](https://github.com/kennethreitz/crayons)
 - [pypette](https://github.com/csurfer/pypette)
@@ -72,6 +75,7 @@
 
 # RealPython
 
+- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 - [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
 - [Interacting with Python](https://realpython.com/interacting-with-python/)
 - [Python 3 Installation & Setup Guide](https://realpython.com/installing-python/)
@@ -253,6 +257,8 @@
 
 # Python
 
+- [3 Python command-line tools](https://opensource.com/article/18/5/3-python-command-line-tools)
+- [Python Sets and Set Theory](https://www.datacamp.com/community/tutorials/sets-in-python)
 - [Enhance your Python with an interactive shell](https://fedoramagazine.org/enhance-python-interactive-shell/)
 - [Improve your Python projects with mypy](https://fedoramagazine.org/improve-python-projects-mypy/)
 - [Getting started with the Python debugger](https://fedoramagazine.org/getting-started-python-debugger/)
