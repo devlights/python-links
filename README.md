@@ -16,7 +16,7 @@
 
 ---
 
-# Github
+## Github
 
 - [click](https://github.com/pallets/click)
 - [docopt](https://github.com/docopt/docopt)
@@ -73,7 +73,7 @@
 - [Generate wordcloud of followers' descriptions](https://gist.github.com/simecek/ac263a371830cafe309d88a5d099b887)
 - [concurrent.futures — 並行処理 in Python](https://heavywatal.github.io/python/concurrent.html)
 
-# RealPython
+## RealPython
 
 - [Basic Data Types in Python](https://realpython.com/python-data-types/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
@@ -119,7 +119,7 @@
 - [Flask by Example – Updating the UI](https://realpython.com/blog/python/flask-by-example-updating-the-ui/)
 - [Flask by Example – Custom Angular Directive with D3](https://realpython.com/blog/python/flask-by-example-custom-angular-directive-with-d3/)
 
-# Qiita
+## Qiita
 
 - [ファイルの更新をきっかけにコマンド実行 (python編)](https://qiita.com/ksato9700/items/ea4b769d010e8cf1fb0c)
 - [Python を支える技術 ディスクリプタ編 #pyconjp](https://qiita.com/knzm/items/a8a0fead6e1706663c22)
@@ -179,7 +179,7 @@
 - [Python デコレータ再入門 デコレータは種類別に覚えよう](https://qiita.com/makky05/items/1be6cf0f1f238b5ba01b)
 - [【Python基礎】モジュール化](https://qiita.com/Tocyuki/items/fb99d9bdb71875843357)
 
-# PyQT
+## PyQT
 
 - [Python/PyQt](http://wiki.examind.net/index.php?Python/PyQt)
 - [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
@@ -195,7 +195,7 @@
 - [PyQt5チュートリアル日本語まとめ[10] - Custom widgets in PyQt5](https://qiita.com/puuuii/items/a34ec92842bc306fc123)
 - [PyQt5チュートリアル日本語まとめ[11] - Tetris in PyQt5](https://qiita.com/puuuii/items/d0ec47d3b6f8c6fb58f0)
 
-# Tutorials
+## Tutorials
 
 - [Python List Comprehension Tutorial](https://www.datacamp.com/community/tutorials/python-list-comprehension)
 - [Python GUI examples (Tkinter Tutorial)](https://likegeeks.com/python-gui-examples-tkinter-tutorial/)
@@ -225,7 +225,7 @@
 - [wxWidgets tutorial](http://zetcode.com/gui/wxwidgets/)
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
-# Asynchronous
+## Asynchronous
 
 - [Multiprocessing Vs. Multithreading In Python](https://timber.io//blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
 - [Asyncio basics in python](https://medium.com/@alairock/asyncio-basics-in-python-29bf30cf254f)
@@ -257,7 +257,7 @@
 - [Parallel Python with Numba and ParallelAccelerator](https://www.anaconda.com/blog/developer-blog/parallel-python-with-numba-and-parallelaccelerator/)
 - [Developing an Asynchronous Task Queue in Python](https://testdriven.io/developing-an-asynchronous-task-queue-in-python)
 
-# Python
+## Python
 
 - [3 Python command-line tools](https://opensource.com/article/18/5/3-python-command-line-tools)
 - [Python Sets and Set Theory](https://www.datacamp.com/community/tutorials/sets-in-python)
@@ -361,7 +361,7 @@
 - [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 - [Python SQLite3 Basics](http://nitratine.net/python-sqlite3-basics/)
 
-# WebFrameworks
+## WebFrameworks
 
 - [Scraping 10000 tweets in 60 seconds using celery, RabbitMQ and Docker cluster with rotating proxy](http://thepythondjango.com/scraping-10000-tweets-in-60-seconds-using-celery-rabbitmq-and-docker-clusterwith-rotating-proxy/)
 - [Developing Flask Apps in Docker Containers on macOS](https://www.fullstackpython.com/blog/develop-flask-web-apps-docker-containers-macos.html)
@@ -383,7 +383,7 @@
 - [Django・WSGIミドルウェア入門/django-congress-jp-2018-talk](https://speakerdeck.com/thinkami/django-congress-jp-2018-talk)
 - [Django未経験者に送るDjango入門ロードマップ](https://qiita.com/nossey/items/03e114a7b728a8b2ae55)
 
-# Misc
+## Misc
 
 - [Creating PDFs with PyFPDF and Python](https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/)
 - [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
