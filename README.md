@@ -75,6 +75,7 @@
 
 # RealPython
 
+- [Basic Data Types in Python](https://realpython.com/python-data-types/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 - [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
 - [Interacting with Python](https://realpython.com/interacting-with-python/)
@@ -226,6 +227,7 @@
 
 # Asynchronous
 
+- [Multiprocessing Vs. Multithreading In Python](https://timber.io//blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
 - [Asyncio basics in python](https://medium.com/@alairock/asyncio-basics-in-python-29bf30cf254f)
 - [Asynchronous Tasks with Falcon and Celery](https://testdriven.io/asynchronous-tasks-with-falcon-and-celery)
 - [Asynchronous Tasks with Flask and Redis Queue](https://testdriven.io/asynchronous-tasks-with-flask-and-redis-queue)
@@ -383,6 +385,7 @@
 
 # Misc
 
+- [Creating PDFs with PyFPDF and Python](https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/)
 - [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
 - [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
 - [A Complete Machine Learning Walk-Through in Python: Part Three](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
