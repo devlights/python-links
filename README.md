@@ -383,6 +383,7 @@
 
 # Misc
 
+- [An Intro to PyPDF2](http://www.blog.pythonlibrary.org/2018/06/07/an-intro-to-pypdf2/)
 - [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
 - [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
 - [A Complete Machine Learning Walk-Through in Python: Part Three](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
