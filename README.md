@@ -17,7 +17,7 @@
 ---
 
 ## Github
-
+- [parver](https://github.com/RazerM/parver)
 - [click](https://github.com/pallets/click)
 - [docopt](https://github.com/docopt/docopt)
 - [python-fire](https://github.com/google/python-fire)
@@ -75,6 +75,7 @@
 
 ## RealPython
 
+- [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
 - [Basic Data Types in Python](https://realpython.com/python-data-types/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 - [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
@@ -259,6 +260,10 @@
 
 ## Python
 
+- [VS CodeからJupyter Notebookを使ってみよう](http://www.atmarkit.co.jp/ait/articles/1806/12/news041.html)
+- [VS CodeでPythonするために必要なこと](http://www.atmarkit.co.jp/ait/articles/1805/22/news043.html)
+- [VS CodeでPythonプログラムを快適コーディング！ ](http://www.atmarkit.co.jp/ait/articles/1805/29/news031.html)
+- [VS CodeでPythonコードのデバッグも楽々！！](http://www.atmarkit.co.jp/ait/articles/1806/05/news023.html)
 - [3 Python command-line tools](https://opensource.com/article/18/5/3-python-command-line-tools)
 - [Python Sets and Set Theory](https://www.datacamp.com/community/tutorials/sets-in-python)
 - [Enhance your Python with an interactive shell](https://fedoramagazine.org/enhance-python-interactive-shell/)
