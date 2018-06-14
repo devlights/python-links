@@ -75,6 +75,8 @@
 
 ## RealPython
 
+- [Variables in Python](https://realpython.com/python-variables/)
+- [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
 - [Basic Data Types in Python](https://realpython.com/python-data-types/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
@@ -260,6 +262,7 @@
 
 ## Python
 
+- [Python Generators Tutorial](https://www.dataquest.io/blog/python-generators-tutorial/)
 - [VS CodeからJupyter Notebookを使ってみよう](http://www.atmarkit.co.jp/ait/articles/1806/12/news041.html)
 - [VS CodeでPythonするために必要なこと](http://www.atmarkit.co.jp/ait/articles/1805/22/news043.html)
 - [VS CodeでPythonプログラムを快適コーディング！ ](http://www.atmarkit.co.jp/ait/articles/1805/29/news031.html)
