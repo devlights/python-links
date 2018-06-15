@@ -274,6 +274,7 @@
 
 ## Python
 
+- [Python Sets and Set Theory](https://towardsdatascience.com/python-sets-and-set-theory-2ace093d1607)
 - [Python の logging 力を高める](http://momijiame.tumblr.com/post/41503983502/python-%E3%81%AE-logging-%E5%8A%9B%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B)
 - [Pythonでログ出力をする](http://techtipshoge.blogspot.com/2016/05/python.html)
 - [Python Generators Tutorial](https://www.dataquest.io/blog/python-generators-tutorial/)
