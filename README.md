@@ -17,6 +17,15 @@
 ---
 
 ## Github
+
+- [MonkeyType](https://github.com/Instagram/MonkeyType)
+- [livepython](https://github.com/agermanidis/livepython)
+- [maya](https://github.com/kennethreitz/maya)
+- [better-exceptions](https://github.com/Qix-/better-exceptions)
+- [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup)
+- [apistar](https://github.com/encode/apistar)
+- [InstaPy](https://github.com/timgrossmann/InstaPy)
+- [dash](https://github.com/plotly/dash)
 - [invoke](https://github.com/pyinvoke/invoke/)
 - [cerberus](https://github.com/pyeve/cerberus)
 - [retry](https://github.com/invl/retry)
@@ -400,6 +409,7 @@
 
 ## Misc
 
+- [Plotly Dashで簡単に可視化ができるWebアプリを作る](https://qiita.com/driller/items/49e3b6084ec034353dc1)
 - [Pythonの汎用データバリデーションライブラリ「Cerberus」を使う](https://qiita.com/terukizm/items/db8a70158e94525c69d5)
 - [便利なPythonライブラリ（６）Invoke](http://techtipshoge.blogspot.com/2016/06/pythoninvoke.html)
 - [便利なPythonライブラリ（７）Cerberus](http://techtipshoge.blogspot.com/2016/06/pythoncerberus.html)
