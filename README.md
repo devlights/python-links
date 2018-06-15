@@ -17,6 +17,9 @@
 ---
 
 ## Github
+- [invoke](https://github.com/pyinvoke/invoke/)
+- [cerberus](https://github.com/pyeve/cerberus)
+- [retry](https://github.com/invl/retry)
 - [parver](https://github.com/RazerM/parver)
 - [click](https://github.com/pallets/click)
 - [docopt](https://github.com/docopt/docopt)
@@ -262,6 +265,8 @@
 
 ## Python
 
+- [Python の logging 力を高める](http://momijiame.tumblr.com/post/41503983502/python-%E3%81%AE-logging-%E5%8A%9B%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B)
+- [Pythonでログ出力をする](http://techtipshoge.blogspot.com/2016/05/python.html)
 - [Python Generators Tutorial](https://www.dataquest.io/blog/python-generators-tutorial/)
 - [VS CodeからJupyter Notebookを使ってみよう](http://www.atmarkit.co.jp/ait/articles/1806/12/news041.html)
 - [VS CodeでPythonするために必要なこと](http://www.atmarkit.co.jp/ait/articles/1805/22/news043.html)
@@ -371,6 +376,7 @@
 
 ## WebFrameworks
 
+- [TornadoでWebSocketを使ってみた](http://techtipshoge.blogspot.com/2016/08/tornadowebsocket.html)
 - [Running Bottle Apps in Docker Containers on macOS](https://www.fullstackpython.com/blog/first-steps-bottle-web-apps-docker-containers.html)
 - [Scraping 10000 tweets in 60 seconds using celery, RabbitMQ and Docker cluster with rotating proxy](http://thepythondjango.com/scraping-10000-tweets-in-60-seconds-using-celery-rabbitmq-and-docker-clusterwith-rotating-proxy/)
 - [Developing Flask Apps in Docker Containers on macOS](https://www.fullstackpython.com/blog/develop-flask-web-apps-docker-containers-macos.html)
@@ -394,6 +400,9 @@
 
 ## Misc
 
+- [Pythonの汎用データバリデーションライブラリ「Cerberus」を使う](https://qiita.com/terukizm/items/db8a70158e94525c69d5)
+- [便利なPythonライブラリ（６）Invoke](http://techtipshoge.blogspot.com/2016/06/pythoninvoke.html)
+- [便利なPythonライブラリ（７）Cerberus](http://techtipshoge.blogspot.com/2016/06/pythoncerberus.html)
 - [An Intro to PyPDF2](http://www.blog.pythonlibrary.org/2018/06/07/an-intro-to-pypdf2/)
 - [Creating PDFs with PyFPDF and Python](https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/)
 - [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
