@@ -87,6 +87,8 @@
 
 ## RealPython
 
+- [Working With JSON Data in Python](https://realpython.com/python-json/)
+- [Introduction to Git and GitHub for Python Developers](https://realpython.com/python-git-github-intro/)
 - [Variables in Python](https://realpython.com/python-variables/)
 - [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
