@@ -87,6 +87,8 @@
 
 ## RealPython
 
+- [Face Detection in Python Using a Webcam](https://realpython.com/face-detection-in-python-using-a-webcam/)
+- [Python Inner Functions—What Are They Good For?](https://realpython.com/inner-functions-what-are-they-good-for/)
 - [Working With JSON Data in Python](https://realpython.com/python-json/)
 - [Introduction to Git and GitHub for Python Developers](https://realpython.com/python-git-github-intro/)
 - [Variables in Python](https://realpython.com/python-variables/)
@@ -244,6 +246,7 @@
 
 ## Asynchronous
 
+- [A guide to asynchronous programming in Python with asyncio](https://medium.freecodecamp.org/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6)
 - [Multiprocessing Vs. Multithreading In Python](https://timber.io//blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
 - [Asyncio basics in python](https://medium.com/@alairock/asyncio-basics-in-python-29bf30cf254f)
 - [Asynchronous Tasks with Falcon and Celery](https://testdriven.io/asynchronous-tasks-with-falcon-and-celery)
@@ -276,13 +279,17 @@
 
 ## Python
 
+- [Working with Binary Data in Python](https://www.devdungeon.com/content/working-binary-data-python)
+- [Debugging Python Applications with pdb](https://djangostars.com/blog/debugging-python-applications-with-pdb/)
+- [Pythonのパッケージングのベストプラクティスについて考える2018](http://techblog.asahi-net.co.jp/entry/2018/06/15/162951)
+- [あると便利？　VS Codeで使えるPython関連の拡張機能 (1/3)](http://www.atmarkit.co.jp/ait/articles/1806/19/news026.html)
 - [Python Sets and Set Theory](https://towardsdatascience.com/python-sets-and-set-theory-2ace093d1607)
 - [Python の logging 力を高める](http://momijiame.tumblr.com/post/41503983502/python-%E3%81%AE-logging-%E5%8A%9B%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B)
 - [Pythonでログ出力をする](http://techtipshoge.blogspot.com/2016/05/python.html)
 - [Python Generators Tutorial](https://www.dataquest.io/blog/python-generators-tutorial/)
 - [VS CodeからJupyter Notebookを使ってみよう](http://www.atmarkit.co.jp/ait/articles/1806/12/news041.html)
 - [VS CodeでPythonするために必要なこと](http://www.atmarkit.co.jp/ait/articles/1805/22/news043.html)
-- [VS CodeでPythonプログラムを快適コーディング！ ](http://www.atmarkit.co.jp/ait/articles/1805/29/news031.html)
+- [VS CodeでPythonプログラムを快適コーディング！](http://www.atmarkit.co.jp/ait/articles/1805/29/news031.html)
 - [VS CodeでPythonコードのデバッグも楽々！！](http://www.atmarkit.co.jp/ait/articles/1806/05/news023.html)
 - [3 Python command-line tools](https://opensource.com/article/18/5/3-python-command-line-tools)
 - [Python Sets and Set Theory](https://www.datacamp.com/community/tutorials/sets-in-python)
@@ -412,6 +419,9 @@
 
 ## Misc
 
+- [ANSIBLEを色々触って本番導入（まだ、途中）を進めて感じたことなどまとめてみた](https://sky-joker.tech/2018/06/16/ansible%E3%82%92%E8%89%B2%E3%80%85%E8%A7%A6%E3%81%A3%E3%81%A6%E6%9C%AC%E7%95%AA%E5%B0%8E%E5%85%A5%EF%BC%88%E3%81%BE%E3%81%A0%E3%80%81%E9%80%94%E4%B8%AD%EF%BC%89%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6/)
+- [Create networking with ZeroMQ sockets](http://leftmouseclickin.com/2018/06/18/create-networking-with-zeromq-sockets/)
+- [10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)
 - [Plotly Dashで簡単に可視化ができるWebアプリを作る](https://qiita.com/driller/items/49e3b6084ec034353dc1)
 - [Pythonの汎用データバリデーションライブラリ「Cerberus」を使う](https://qiita.com/terukizm/items/db8a70158e94525c69d5)
 - [便利なPythonライブラリ（６）Invoke](http://techtipshoge.blogspot.com/2016/06/pythoninvoke.html)
