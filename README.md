@@ -140,6 +140,7 @@
 
 ## Qiita
 
+- [Python(Click)でデフォルト安全なコマンドラインツールを作る](https://qiita.com/shiimaxx/items/654763a9d7481f3c0188)
 - [ファイルの更新をきっかけにコマンド実行 (python編)](https://qiita.com/ksato9700/items/ea4b769d010e8cf1fb0c)
 - [Python を支える技術 ディスクリプタ編 #pyconjp](https://qiita.com/knzm/items/a8a0fead6e1706663c22)
 - [python:ローカルファイルをtimestampでソートしてscpで転送](https://qiita.com/R_K/items/48990fb4aeda9d367cb5)
