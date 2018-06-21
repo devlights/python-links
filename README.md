@@ -18,6 +18,7 @@
 
 ## Github
 
+- [boxx](https://github.com/DIYer22/boxx)
 - [bitstring](https://github.com/scott-griffiths/bitstring)
 - [MonkeyType](https://github.com/Instagram/MonkeyType)
 - [livepython](https://github.com/agermanidis/livepython)
