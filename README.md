@@ -18,6 +18,7 @@
 
 ## Github
 
+- [bitstring](https://github.com/scott-griffiths/bitstring)
 - [MonkeyType](https://github.com/Instagram/MonkeyType)
 - [livepython](https://github.com/agermanidis/livepython)
 - [maya](https://github.com/kennethreitz/maya)
@@ -280,6 +281,7 @@
 
 ## Python
 
+- [BITS, BYTES, BITSTRING, AND CONSTBITSTREAM](http://www.bogotobogo.com/python/python_bits_bytes_bitstring_constBitStream.php)
 - [Working with Binary Data in Python](https://www.devdungeon.com/content/working-binary-data-python)
 - [Debugging Python Applications with pdb](https://djangostars.com/blog/debugging-python-applications-with-pdb/)
 - [Pythonのパッケージングのベストプラクティスについて考える2018](http://techblog.asahi-net.co.jp/entry/2018/06/15/162951)
