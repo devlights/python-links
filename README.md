@@ -285,6 +285,8 @@
 
 ## Python
 
+- [How to use decorators Part 2](https://www.pythonforthelab.com/blog/how-to-use-decorators-part-2/)
+- [How to Use Decorators to Validate Input](https://www.pythonforthelab.com/blog/how-to-use-decorators-to-validate-input/)
 - [The Pythonic Guide To Logging](https://timber.io/blog/the-pythonic-guide-to-logging/)
 - [BITS, BYTES, BITSTRING, AND CONSTBITSTREAM](http://www.bogotobogo.com/python/python_bits_bytes_bitstring_constBitStream.php)
 - [Working with Binary Data in Python](https://www.devdungeon.com/content/working-binary-data-python)
