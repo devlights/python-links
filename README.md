@@ -89,6 +89,7 @@
 
 ## RealPython
 
+- [Docker in Action – Fitter, Happier, More Productive](https://realpython.com/docker-in-action-fitter-happier-more-productive/)
 - [Operators and Expressions in Python](https://realpython.com/python-operators-expressions/)
 - [Face Detection in Python Using a Webcam](https://realpython.com/face-detection-in-python-using-a-webcam/)
 - [Python Inner Functions—What Are They Good For?](https://realpython.com/inner-functions-what-are-they-good-for/)
@@ -425,6 +426,7 @@
 
 ## Misc
 
+- [Design Patterns. Part 1](https://py.checkio.org/blog/design-patterns-part-1/)
 - [An Intro to Web Scraping With lxml and Python](https://pythontips.com/2018/06/20/an-intro-to-web-scraping-with-lxml-and-python/)
 - [ANSIBLEを色々触って本番導入（まだ、途中）を進めて感じたことなどまとめてみた](https://sky-joker.tech/2018/06/16/ansible%E3%82%92%E8%89%B2%E3%80%85%E8%A7%A6%E3%81%A3%E3%81%A6%E6%9C%AC%E7%95%AA%E5%B0%8E%E5%85%A5%EF%BC%88%E3%81%BE%E3%81%A0%E3%80%81%E9%80%94%E4%B8%AD%EF%BC%89%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6/)
 - [Create networking with ZeroMQ sockets](http://leftmouseclickin.com/2018/06/18/create-networking-with-zeromq-sockets/)
