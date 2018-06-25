@@ -285,6 +285,7 @@
 
 ## Python
 
+- [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/)
 - [How to use decorators Part 2](https://www.pythonforthelab.com/blog/how-to-use-decorators-part-2/)
 - [How to Use Decorators to Validate Input](https://www.pythonforthelab.com/blog/how-to-use-decorators-to-validate-input/)
 - [The Pythonic Guide To Logging](https://timber.io/blog/the-pythonic-guide-to-logging/)
