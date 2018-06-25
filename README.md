@@ -4,15 +4,15 @@
 
 ---
 
-- [Github](https://github.com/devlights/python-links#github)
-- [RealPython](https://github.com/devlights/python-links#realpython)
-- [Qiita](https://github.com/devlights/python-links#qiita)
-- [PyQT](https://github.com/devlights/python-links#pyqt)
-- [Tutorials](https://github.com/devlights/python-links#tutorials)
-- [Asynchronous](https://github.com/devlights/python-links#asynchronous)
-- [Python Language](https://github.com/devlights/python-links#python)
-- [Web Frameworks](https://github.com/devlights/python-links#webframeworks)
-- [Misc](https://github.com/devlights/python-links#misc)
+- [Github](#github)
+- [RealPython](#realpython)
+- [Qiita](#qiita)
+- [PyQT](#pyqt)
+- [Tutorials](#tutorials)
+- [Asynchronous](#asynchronous)
+- [Python Language](#python)
+- [Web Frameworks](#webframeworks)
+- [Misc](#misc)
 
 ---
 
