@@ -89,6 +89,7 @@
 
 ## RealPython
 
+- [What Can I Do With Python](https://realpython.com/what-can-i-do-with-python/)
 - [Python Interview Problem – Parsing CSV Files](https://realpython.com/python-interview-problem-parsing-csv-files/)
 - [Look Ma, No For-Loops: Array Programming With NumPy](https://realpython.com/numpy-array-programming/)
 - [Docker in Action – Fitter, Happier, More Productive](https://realpython.com/docker-in-action-fitter-happier-more-productive/)
