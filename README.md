@@ -18,6 +18,7 @@
 
 ## Github
 
+- [PyLogger](https://github.com/stoic1979/PyLogger)
 - [boxx](https://github.com/DIYer22/boxx)
 - [bitstring](https://github.com/scott-griffiths/bitstring)
 - [MonkeyType](https://github.com/Instagram/MonkeyType)
