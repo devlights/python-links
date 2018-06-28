@@ -89,6 +89,8 @@
 
 ## RealPython
 
+- [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+- [Cool New Features in Python 3.7](https://realpython.com/python37-new-features/)
 - [What Can I Do With Python](https://realpython.com/what-can-i-do-with-python/)
 - [Python Interview Problem – Parsing CSV Files](https://realpython.com/python-interview-problem-parsing-csv-files/)
 - [Look Ma, No For-Loops: Array Programming With NumPy](https://realpython.com/numpy-array-programming/)
@@ -287,6 +289,7 @@
 
 ## Python
 
+- [Python 3.7.0](https://www.python.org/downloads/release/python-370/)
 - [How to make an iterator in Python](http://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/)
 - [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/)
 - [How to use decorators Part 2](https://www.pythonforthelab.com/blog/how-to-use-decorators-part-2/)
