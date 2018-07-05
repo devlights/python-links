@@ -90,6 +90,7 @@
 
 ## RealPython
 
+- [Headless Selenium Testing with Python and PhantomJS](https://realpython.com/tutorials/intermediate/)
 - [Developing with Bottle – Part 2 (plot.ly API)](https://realpython.com/developing-with-bottle-part-2-plot-ly-api/)
 - [Dockerizing Flask With Compose and Machine – From Localhost to the Cloud](https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/)
 - [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
@@ -443,6 +444,8 @@
 
 ## Misc
 
+- [Design Patterns. Part 2](https://py.checkio.org/blog/design-patterns-part-2/)
+- [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 - [本格的なPythonデータ解析環境を手軽に！ 「Jupyter Notebook」の導入から可視化まで](https://codezine.jp/article/detail/10917)
 - [Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 - [Design Patterns. Part 1](https://py.checkio.org/blog/design-patterns-part-1/)
