@@ -292,6 +292,7 @@
 
 ## Python
 
+- [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Python 3.7.0](https://www.python.org/downloads/release/python-370/)
 - [How to make an iterator in Python](http://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/)
 - [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/)
@@ -439,6 +440,7 @@
 
 ## Misc
 
+- [本格的なPythonデータ解析環境を手軽に！ 「Jupyter Notebook」の導入から可視化まで](https://codezine.jp/article/detail/10917)
 - [Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 - [Design Patterns. Part 1](https://py.checkio.org/blog/design-patterns-part-1/)
 - [An Intro to Web Scraping With lxml and Python](https://pythontips.com/2018/06/20/an-intro-to-web-scraping-with-lxml-and-python/)
