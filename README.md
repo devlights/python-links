@@ -90,6 +90,9 @@
 
 ## RealPython
 
+- [Developing with Bottle – Part 2 (plot.ly API)](https://realpython.com/developing-with-bottle-part-2-plot-ly-api/)
+- [Dockerizing Flask With Compose and Machine – From Localhost to the Cloud](https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/)
+- [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
 - [Django Rest Framework – An Introduction](https://realpython.com/django-rest-framework-quick-start/)
 - [Python String Formatting](https://realpython.com/python-string-formatting/)
 - [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
