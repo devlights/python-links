@@ -90,6 +90,8 @@
 
 ## RealPython
 
+- [Django Rest Framework – An Introduction](https://realpython.com/django-rest-framework-quick-start/)
+- [Python String Formatting](https://realpython.com/python-string-formatting/)
 - [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 - [Cool New Features in Python 3.7](https://realpython.com/python37-new-features/)
 - [What Can I Do With Python](https://realpython.com/what-can-i-do-with-python/)
