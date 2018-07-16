@@ -18,6 +18,7 @@
 
 ## Github
 
+- [pgcli](https://github.com/dbcli/pgcli/branches)
 - [PyLogger](https://github.com/stoic1979/PyLogger)
 - [boxx](https://github.com/DIYer22/boxx)
 - [bitstring](https://github.com/scott-griffiths/bitstring)
@@ -90,6 +91,7 @@
 
 ## RealPython
 
+- [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
 - [Headless Selenium Testing with Python and PhantomJS](https://realpython.com/tutorials/intermediate/)
 - [Developing with Bottle – Part 2 (plot.ly API)](https://realpython.com/developing-with-bottle-part-2-plot-ly-api/)
 - [Dockerizing Flask With Compose and Machine – From Localhost to the Cloud](https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/)
