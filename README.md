@@ -91,6 +91,8 @@
 
 ## RealPython
 
+- [Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
+- [Generating Random Data in Python (Guide)](https://realpython.com/python-random/)
 - [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
 - [Headless Selenium Testing with Python and PhantomJS](https://realpython.com/tutorials/intermediate/)
 - [Developing with Bottle – Part 2 (plot.ly API)](https://realpython.com/developing-with-bottle-part-2-plot-ly-api/)
@@ -449,6 +451,7 @@
 
 ## Misc
 
+- [feather - pandasの読み書きを高速化](https://mikebird28.hatenablog.jp/entry/2018/05/12/213740)
 - [Design Patterns. Part 2](https://py.checkio.org/blog/design-patterns-part-2/)
 - [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 - [本格的なPythonデータ解析環境を手軽に！ 「Jupyter Notebook」の導入から可視化まで](https://codezine.jp/article/detail/10917)
