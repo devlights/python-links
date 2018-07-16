@@ -158,6 +158,8 @@
 
 ## Qiita
 
+- [pip の constraints の正しい用途](https://qiita.com/methane/items/11219ceedb44c0ebcc75)
+- [Python 開発者は -W default オプションを使おう](https://qiita.com/methane/items/35ac132798051c7f9573)
 - [Python(Click)でデフォルト安全なコマンドラインツールを作る](https://qiita.com/shiimaxx/items/654763a9d7481f3c0188)
 - [ファイルの更新をきっかけにコマンド実行 (python編)](https://qiita.com/ksato9700/items/ea4b769d010e8cf1fb0c)
 - [Python を支える技術 ディスクリプタ編 #pyconjp](https://qiita.com/knzm/items/a8a0fead6e1706663c22)
@@ -298,6 +300,7 @@
 
 ## Python
 
+- [きたない requirements.txt から Pipenv への移行](https://www.kabuku.co.jp/developers/python-pipenv-graph)
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Python 3.7.0](https://www.python.org/downloads/release/python-370/)
 - [How to make an iterator in Python](http://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/)
