@@ -91,6 +91,7 @@
 
 ## RealPython
 
+- [Strings and Character Data in Python](https://realpython.com/python-strings/)
 - [Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Generating Random Data in Python (Guide)](https://realpython.com/python-random/)
 - [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
