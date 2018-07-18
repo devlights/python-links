@@ -271,6 +271,7 @@
 
 ## Asynchronous
 
+- [Async programming in Python with asyncio](http://maked.io/async-programming-in-python/)
 - [A guide to asynchronous programming in Python with asyncio](https://medium.freecodecamp.org/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6)
 - [Multiprocessing Vs. Multithreading In Python](https://timber.io//blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
 - [Asyncio basics in python](https://medium.com/@alairock/asyncio-basics-in-python-29bf30cf254f)
