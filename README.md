@@ -304,6 +304,7 @@
 
 ## Python
 
+- [Python Assignment Expression – PEP 572 – Python3.8](http://www.thetaranights.com/python-assignment-expression-pep-572-python3-8/)
 - [きたない requirements.txt から Pipenv への移行](https://www.kabuku.co.jp/developers/python-pipenv-graph)
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Python 3.7.0](https://www.python.org/downloads/release/python-370/)
