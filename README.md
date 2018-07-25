@@ -274,6 +274,7 @@
 
 ## Asynchronous
 
+- [Parallelisation In Python — An Alternative Approach](https://medium.com/idealo-tech-blog/parallelisation-in-python-an-alternative-approach-b2749b49a1e)
 - [Async programming in Python with asyncio](http://maked.io/async-programming-in-python/)
 - [A guide to asynchronous programming in Python with asyncio](https://medium.freecodecamp.org/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6)
 - [Multiprocessing Vs. Multithreading In Python](https://timber.io//blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
