@@ -91,6 +91,7 @@
 
 ## RealPython
 
+- [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
 - [Face Recognition with Python, in Under 25 Lines of Code](https://realpython.com/face-recognition-with-python/)
 - [Fast, Flexible, Easy and Intuitive: How to Speed Up Your Pandas Projects](https://realpython.com/fast-flexible-pandas/)
 - [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
@@ -307,6 +308,10 @@
 
 ## Python
 
+- [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
+- [7 features proposed so far in Python 3.8](https://hackernoon.com/7-features-proposed-so-far-in-python-3-8-acb0d97c83c8)
+- [Learning (not) to Handle Exceptions](https://www.pythonforthelab.com/blog/learning-not-to-handle-exceptions/)
+- [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Python: tqdm で処理の進捗状況をプログレスバーとして表示する](https://blog.amedama.jp/entry/2018/07/23/080000)
 - [Python Operators](https://www.thetaranights.com/python-operators/)
 - [Python Assignment Expression – PEP 572 – Python3.8](http://www.thetaranights.com/python-assignment-expression-pep-572-python3-8/)
@@ -460,6 +465,8 @@
 
 ## Misc
 
+- [The Right Way™ to do Serverless in Python](https://read.iopipe.com/the-right-way-to-do-serverless-in-python-e99535574454)
+- [Green Unicorn (Gunicorn)](https://www.fullstackpython.com/green-unicorn-gunicorn.html)
 - [Cross Validation and Grid Search for Model Selection in Python](http://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/)
 - [feather - pandasの読み書きを高速化](https://mikebird28.hatenablog.jp/entry/2018/05/12/213740)
 - [Design Patterns. Part 2](https://py.checkio.org/blog/design-patterns-part-2/)
