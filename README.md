@@ -431,6 +431,7 @@
 
 ## WebFrameworks
 
+- [初心者でもPython用Webフレームワーク「Flask」について学べるコンテンツ5選](https://paiza.hatenablog.com/entry/2018/07/24/flask)
 - [TornadoでWebSocketを使ってみた](http://techtipshoge.blogspot.com/2016/08/tornadowebsocket.html)
 - [Running Bottle Apps in Docker Containers on macOS](https://www.fullstackpython.com/blog/first-steps-bottle-web-apps-docker-containers.html)
 - [Scraping 10000 tweets in 60 seconds using celery, RabbitMQ and Docker cluster with rotating proxy](http://thepythondjango.com/scraping-10000-tweets-in-60-seconds-using-celery-rabbitmq-and-docker-clusterwith-rotating-proxy/)
