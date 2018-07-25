@@ -91,6 +91,8 @@
 
 ## RealPython
 
+- [Face Recognition with Python, in Under 25 Lines of Code](https://realpython.com/face-recognition-with-python/)
+- [Fast, Flexible, Easy and Intuitive: How to Speed Up Your Pandas Projects](https://realpython.com/fast-flexible-pandas/)
 - [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 - [Strings and Character Data in Python](https://realpython.com/python-strings/)
 - [Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
@@ -305,6 +307,8 @@
 
 ## Python
 
+- [Python: tqdm で処理の進捗状況をプログレスバーとして表示する](https://blog.amedama.jp/entry/2018/07/23/080000)
+- [Python Operators](https://www.thetaranights.com/python-operators/)
 - [Python Assignment Expression – PEP 572 – Python3.8](http://www.thetaranights.com/python-assignment-expression-pep-572-python3-8/)
 - [きたない requirements.txt から Pipenv への移行](https://www.kabuku.co.jp/developers/python-pipenv-graph)
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
@@ -456,6 +460,7 @@
 
 ## Misc
 
+- [Cross Validation and Grid Search for Model Selection in Python](http://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/)
 - [feather - pandasの読み書きを高速化](https://mikebird28.hatenablog.jp/entry/2018/05/12/213740)
 - [Design Patterns. Part 2](https://py.checkio.org/blog/design-patterns-part-2/)
 - [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
