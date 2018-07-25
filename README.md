@@ -309,6 +309,7 @@
 
 ## Python
 
+- [Building XML using Python](https://www.roytuts.com/building-xml-using-python/)
 - [Understanding Python Dataclasses — Part 1](https://medium.com/mindorks/understanding-python-dataclasses-part-1-c3ccd4355c34)
 - [Python Sets: What, Why and How](https://www.pythoncheatsheet.org/blog/python-sets-what-why-how)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
