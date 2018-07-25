@@ -446,6 +446,7 @@
 
 ## WebFrameworks
 
+- [VS CodeとFlaskによるWebアプリ開発「最初の一歩」 (1/3)](http://www.atmarkit.co.jp/ait/articles/1807/24/news024.html)
 - [初心者でもPython用Webフレームワーク「Flask」について学べるコンテンツ5選](https://paiza.hatenablog.com/entry/2018/07/24/flask)
 - [TornadoでWebSocketを使ってみた](http://techtipshoge.blogspot.com/2016/08/tornadowebsocket.html)
 - [Running Bottle Apps in Docker Containers on macOS](https://www.fullstackpython.com/blog/first-steps-bottle-web-apps-docker-containers.html)
