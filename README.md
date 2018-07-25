@@ -309,6 +309,7 @@
 
 ## Python
 
+- [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 - [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
 - [7 features proposed so far in Python 3.8](https://hackernoon.com/7-features-proposed-so-far-in-python-3-8-acb0d97c83c8)
 - [Learning (not) to Handle Exceptions](https://www.pythonforthelab.com/blog/learning-not-to-handle-exceptions/)
