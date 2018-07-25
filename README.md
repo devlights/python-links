@@ -309,6 +309,8 @@
 
 ## Python
 
+- [Understanding Python Dataclasses — Part 1](https://medium.com/mindorks/understanding-python-dataclasses-part-1-c3ccd4355c34)
+- [Python Sets: What, Why and How](https://www.pythoncheatsheet.org/blog/python-sets-what-why-how)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 - [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
 - [7 features proposed so far in Python 3.8](https://hackernoon.com/7-features-proposed-so-far-in-python-3-8-acb0d97c83c8)
