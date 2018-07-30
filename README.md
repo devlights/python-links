@@ -92,6 +92,7 @@
 
 ## RealPython
 
+- [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 - [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
 - [Face Recognition with Python, in Under 25 Lines of Code](https://realpython.com/face-recognition-with-python/)
 - [Fast, Flexible, Easy and Intuitive: How to Speed Up Your Pandas Projects](https://realpython.com/fast-flexible-pandas/)
