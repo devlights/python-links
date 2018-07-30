@@ -18,6 +18,9 @@
 
 ## Github
 
+- [csvtotable](https://github.com/vividvilla/csvtotable)
+- [visidata](https://github.com/saulpw/visidata)
+- [csvkit](https://github.com/wireservice/csvkit)
 - [Vibora](https://vibora.io/)
 - [pgcli](https://github.com/dbcli/pgcli/branches)
 - [PyLogger](https://github.com/stoic1979/PyLogger)
