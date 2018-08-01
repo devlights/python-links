@@ -314,6 +314,7 @@
 
 ## Python
 
+- [Web Scraping Using Python](https://www.datacamp.com/community/tutorials/web-scraping-using-python)
 - [Pythonによるスクレイピング超絶入門](https://note.mu/daikawai/n/nc73889d6d835)
 - [Building XML using Python](https://www.roytuts.com/building-xml-using-python/)
 - [Understanding Python Dataclasses — Part 1](https://medium.com/mindorks/understanding-python-dataclasses-part-1-c3ccd4355c34)
