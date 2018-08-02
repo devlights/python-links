@@ -321,6 +321,7 @@
 - [Web Scraping Using Python](https://www.datacamp.com/community/tutorials/web-scraping-using-python)
 - [Pythonによるスクレイピング超絶入門](https://note.mu/daikawai/n/nc73889d6d835)
 - [Building XML using Python](https://www.roytuts.com/building-xml-using-python/)
+- [Understanding Python Dataclasses — Part 2](https://medium.com/mindorks/understanding-python-dataclasses-part-2-660ecc11c9b8)
 - [Understanding Python Dataclasses — Part 1](https://medium.com/mindorks/understanding-python-dataclasses-part-1-c3ccd4355c34)
 - [Python Sets: What, Why and How](https://www.pythoncheatsheet.org/blog/python-sets-what-why-how)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
