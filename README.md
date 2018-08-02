@@ -18,6 +18,7 @@
 
 ## Github
 
+- [selinon](https://github.com/selinon/selinon)
 - [csvtotable](https://github.com/vividvilla/csvtotable)
 - [visidata](https://github.com/saulpw/visidata)
 - [csvkit](https://github.com/wireservice/csvkit)
@@ -95,6 +96,7 @@
 
 ## RealPython
 
+- [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 - [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
 - [Face Recognition with Python, in Under 25 Lines of Code](https://realpython.com/face-recognition-with-python/)
@@ -314,7 +316,7 @@
 
 ## Python
 
-- [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
+- [Dockerizing a Python 3 Flask App Line-by-Line](https://medium.com/bitcraft/dockerizing-a-python-3-flask-app-line-by-line-400aef1ded3a)
 - [Why is "list1 = list1 + list2" much slower than "foo = list1 + list2"?](https://www.reddit.com/r/Python/comments/93p39v/why_is_list1_list1_list2_much_slower_than_foo/)
 - [Web Scraping Using Python](https://www.datacamp.com/community/tutorials/web-scraping-using-python)
 - [Pythonによるスクレイピング超絶入門](https://note.mu/daikawai/n/nc73889d6d835)
