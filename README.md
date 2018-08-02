@@ -314,6 +314,8 @@
 
 ## Python
 
+- [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
+- [Why is "list1 = list1 + list2" much slower than "foo = list1 + list2"?](https://www.reddit.com/r/Python/comments/93p39v/why_is_list1_list1_list2_much_slower_than_foo/)
 - [Web Scraping Using Python](https://www.datacamp.com/community/tutorials/web-scraping-using-python)
 - [Pythonによるスクレイピング超絶入門](https://note.mu/daikawai/n/nc73889d6d835)
 - [Building XML using Python](https://www.roytuts.com/building-xml-using-python/)
