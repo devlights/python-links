@@ -480,6 +480,7 @@
 
 ## Misc
 
+- [Web Scraping – BeautifulSoup Python](https://www.thetaranights.com/web-scraping-beautifulsoup-python/)
 - [The Right Way™ to do Serverless in Python](https://read.iopipe.com/the-right-way-to-do-serverless-in-python-e99535574454)
 - [Green Unicorn (Gunicorn)](https://www.fullstackpython.com/green-unicorn-gunicorn.html)
 - [Cross Validation and Grid Search for Model Selection in Python](http://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/)
