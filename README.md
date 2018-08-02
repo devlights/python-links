@@ -96,6 +96,7 @@
 
 ## RealPython
 
+- [Python Code Quality: Tools & Best Practices](https://realpython.com/python-code-quality/)
 - [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 - [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
@@ -316,6 +317,8 @@
 
 ## Python
 
+- [7 Python libraries for more maintainable code](https://opensource.com/article/18/7/7-python-libraries-more-maintainable-code)
+- [What makes the Python Cool](https://www.codementor.io/shankarj67/what-makes-the-python-cool-lyerw0u19)
 - [Dockerizing a Python 3 Flask App Line-by-Line](https://medium.com/bitcraft/dockerizing-a-python-3-flask-app-line-by-line-400aef1ded3a)
 - [Why is "list1 = list1 + list2" much slower than "foo = list1 + list2"?](https://www.reddit.com/r/Python/comments/93p39v/why_is_list1_list1_list2_much_slower_than_foo/)
 - [Web Scraping Using Python](https://www.datacamp.com/community/tutorials/web-scraping-using-python)
