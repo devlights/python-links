@@ -486,6 +486,7 @@
 
 ## Misc
 
+- [PyCharm 2018.2 and pytest Fixtures](https://blog.jetbrains.com/pycharm/2018/08/pycharm-2018-2-and-pytest-fixtures/)
 - [Web Scraping – BeautifulSoup Python](https://www.thetaranights.com/web-scraping-beautifulsoup-python/)
 - [The Right Way™ to do Serverless in Python](https://read.iopipe.com/the-right-way-to-do-serverless-in-python-e99535574454)
 - [Green Unicorn (Gunicorn)](https://www.fullstackpython.com/green-unicorn-gunicorn.html)
