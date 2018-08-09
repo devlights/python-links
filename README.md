@@ -317,6 +317,8 @@
 
 ## Python
 
+- [Dictionaries in Python](https://realpython.com/python-dicts/)
+- [Python Set: Tutorial for Python Beginners](http://www.admintome.com/blog/python-sets/)
 - [7 Python libraries for more maintainable code](https://opensource.com/article/18/7/7-python-libraries-more-maintainable-code)
 - [What makes the Python Cool](https://www.codementor.io/shankarj67/what-makes-the-python-cool-lyerw0u19)
 - [Dockerizing a Python 3 Flask App Line-by-Line](https://medium.com/bitcraft/dockerizing-a-python-3-flask-app-line-by-line-400aef1ded3a)
@@ -486,6 +488,7 @@
 
 ## Misc
 
+- [Examples of Browser Automations using Selenium in Python](https://www.thetaranights.com/examples-of-browser-automations-using-selenium-in-python/)
 - [PyCharm 2018.2 and pytest Fixtures](https://blog.jetbrains.com/pycharm/2018/08/pycharm-2018-2-and-pytest-fixtures/)
 - [Web Scraping – BeautifulSoup Python](https://www.thetaranights.com/web-scraping-beautifulsoup-python/)
 - [The Right Way™ to do Serverless in Python](https://read.iopipe.com/the-right-way-to-do-serverless-in-python-e99535574454)
