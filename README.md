@@ -462,6 +462,12 @@
 
 ## WebFrameworks
 
+- [Create your own Telegram bot with Django on Heroku – Part 6 – Creating the Django app](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-6-creating-the-django-app/)
+- [Create your own Telegram bot with Django on Heroku – Part 5 – Introduce Heroku](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-4-introduce-heroku/)
+- [Create your own Telegram bot with Django on Heroku – Part 4 – pull vs. push method](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-4-pull-vs-push-method/)
+- [Create your own Telegram bot with Django on Heroku – Part 3](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-3/)
+- [Create your own Telegram bot with Django on Heroku – Part 2](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-2/)
+- [Create your own Telegram bot with Django on Heroku – Part 1](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-1/)
 - [VS CodeとFlaskによるWebアプリ開発「最初の一歩」 (1/3)](http://www.atmarkit.co.jp/ait/articles/1807/24/news024.html)
 - [初心者でもPython用Webフレームワーク「Flask」について学べるコンテンツ5選](https://paiza.hatenablog.com/entry/2018/07/24/flask)
 - [TornadoでWebSocketを使ってみた](http://techtipshoge.blogspot.com/2016/08/tornadowebsocket.html)
@@ -488,6 +494,7 @@
 
 ## Misc
 
+- [How to write secure code in Python](https://py.checkio.org/blog/how-to-write-secure-code-in-python/)
 - [Examples of Browser Automations using Selenium in Python](https://www.thetaranights.com/examples-of-browser-automations-using-selenium-in-python/)
 - [PyCharm 2018.2 and pytest Fixtures](https://blog.jetbrains.com/pycharm/2018/08/pycharm-2018-2-and-pytest-fixtures/)
 - [Web Scraping – BeautifulSoup Python](https://www.thetaranights.com/web-scraping-beautifulsoup-python/)
