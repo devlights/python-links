@@ -502,6 +502,8 @@
 
 ## Misc
 
+- [A simple way to anonymize data with Python and Pandas](https://dev.to/r0f1/a-simple-way-to-anonymize-data-with-python-and-pandas-79g)
+- [Face Detection Using Python and OpenCV](http://www.blog.pythonlibrary.org/2018/08/15/face-detection-using-python-and-opencv/)
 - [How to write secure code in Python](https://py.checkio.org/blog/how-to-write-secure-code-in-python/)
 - [Examples of Browser Automations using Selenium in Python](https://www.thetaranights.com/examples-of-browser-automations-using-selenium-in-python/)
 - [PyCharm 2018.2 and pytest Fixtures](https://blog.jetbrains.com/pycharm/2018/08/pycharm-2018-2-and-pytest-fixtures/)
