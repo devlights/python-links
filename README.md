@@ -96,7 +96,8 @@
 
 ## RealPython
 
-- [Better with Python: Collections](https://www.codementor.io/kayhudson/better-with-python-collections-m7aif97t2)
+- [The Ultimate Guide to Django Redirects](https://realpython.com/django-redirects/)
+- [Advanced Git Tips for Python Developers](https://realpython.com/advanced-git-for-pythonistas/)
 - [Python Code Quality: Tools & Best Practices](https://realpython.com/python-code-quality/)
 - [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
@@ -318,6 +319,10 @@
 
 ## Python
 
+- [Headless Web Scraping in Python with Beautiful Soup 4](https://www.codementor.io/alibabacloud/headless-web-scraping-in-python-with-beautiful-soup-4-mctwzyskk)
+- [Steps To Set Up A Virtual Environment For Python Development](https://www.c-sharpcorner.com/article/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16/)
+- [Better with Python: Collections](https://www.codementor.io/kayhudson/better-with-python-collections-m7aif97t2)
+- [Cython で Python ⇔ C++ のインタフェースを作る](http://kazuki-nagasawa.hatenablog.com/entry/memo_20180530_cython_py_and_cpp)
 - [Dynamic Task Routing In Celery](https://www.python-celery.com/2018/06/05/dynamic-task-routing/)
 - [Setup Microservices Architecture in Python with ZeroMQ & Docker](https://www.codementor.io/apcelent/setup-microservices-architecture-in-python-with-zeromq-docker-m6b0duv7e)
 - [Dictionaries in Python](https://realpython.com/python-dicts/)
