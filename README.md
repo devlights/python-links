@@ -96,6 +96,7 @@
 
 ## RealPython
 
+- [Better with Python: Collections](https://www.codementor.io/kayhudson/better-with-python-collections-m7aif97t2)
 - [Python Code Quality: Tools & Best Practices](https://realpython.com/python-code-quality/)
 - [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
@@ -317,6 +318,8 @@
 
 ## Python
 
+- [Dynamic Task Routing In Celery](https://www.python-celery.com/2018/06/05/dynamic-task-routing/)
+- [Setup Microservices Architecture in Python with ZeroMQ & Docker](https://www.codementor.io/apcelent/setup-microservices-architecture-in-python-with-zeromq-docker-m6b0duv7e)
 - [Dictionaries in Python](https://realpython.com/python-dicts/)
 - [Python Set: Tutorial for Python Beginners](http://www.admintome.com/blog/python-sets/)
 - [7 Python libraries for more maintainable code](https://opensource.com/article/18/7/7-python-libraries-more-maintainable-code)
