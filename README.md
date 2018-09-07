@@ -502,6 +502,7 @@
 
 ## Misc
 
+- [プログラミング初心者でも出来た！Pythonスクレイピングで、はてブのホットエントリーを取得](https://temcee.hatenablog.com/entry/python-web-scraping)
 - [A simple way to anonymize data with Python and Pandas](https://dev.to/r0f1/a-simple-way-to-anonymize-data-with-python-and-pandas-79g)
 - [Face Detection Using Python and OpenCV](http://www.blog.pythonlibrary.org/2018/08/15/face-detection-using-python-and-opencv/)
 - [How to write secure code in Python](https://py.checkio.org/blog/how-to-write-secure-code-in-python/)
