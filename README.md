@@ -319,6 +319,7 @@
 
 ## Python
 
+- [Dictionaries An almost complete guide to Python's key:value store](https://www.makewithpython.com/article/python-dictionaries/)
 - [Headless Web Scraping in Python with Beautiful Soup 4](https://www.codementor.io/alibabacloud/headless-web-scraping-in-python-with-beautiful-soup-4-mctwzyskk)
 - [Steps To Set Up A Virtual Environment For Python Development](https://www.c-sharpcorner.com/article/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16/)
 - [Better with Python: Collections](https://www.codementor.io/kayhudson/better-with-python-collections-m7aif97t2)
