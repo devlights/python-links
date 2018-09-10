@@ -18,6 +18,7 @@
 
 ## Github
 
+- [libasynctasks](https://github.com/AnythingTechPro/libasynctasks)
 - [selinon](https://github.com/selinon/selinon)
 - [csvtotable](https://github.com/vividvilla/csvtotable)
 - [visidata](https://github.com/saulpw/visidata)
@@ -96,6 +97,7 @@
 
 ## RealPython
 
+- [Structuring Python Programs](https://realpython.com/python-program-structure/)
 - [The Ultimate Guide to Django Redirects](https://realpython.com/django-redirects/)
 - [Advanced Git Tips for Python Developers](https://realpython.com/advanced-git-for-pythonistas/)
 - [Python Code Quality: Tools & Best Practices](https://realpython.com/python-code-quality/)
@@ -502,6 +504,7 @@
 
 ## Misc
 
+- [Beginner's Tutorial on the Pandas Python Library](https://stackabuse.com/beginners-tutorial-on-the-pandas-python-library/)
 - [A simple way to anonymize data with Python and Pandas](https://dev.to/r0f1/a-simple-way-to-anonymize-data-with-python-and-pandas-79g)
 - [Face Detection Using Python and OpenCV](http://www.blog.pythonlibrary.org/2018/08/15/face-detection-using-python-and-opencv/)
 - [How to write secure code in Python](https://py.checkio.org/blog/how-to-write-secure-code-in-python/)
