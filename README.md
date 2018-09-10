@@ -322,6 +322,7 @@
 ## Python
 
 - [High-Performance in Python with Zero-Copy and the Buffer Protocol](https://julien.danjou.info/high-performance-in-python-with-zero-copy-and-the-buffer-protocol/)
+- [Dictionaries An almost complete guide to Python's key:value store](https://www.makewithpython.com/article/python-dictionaries/)
 - [Headless Web Scraping in Python with Beautiful Soup 4](https://www.codementor.io/alibabacloud/headless-web-scraping-in-python-with-beautiful-soup-4-mctwzyskk)
 - [Steps To Set Up A Virtual Environment For Python Development](https://www.c-sharpcorner.com/article/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16/)
 - [Better with Python: Collections](https://www.codementor.io/kayhudson/better-with-python-collections-m7aif97t2)
@@ -506,6 +507,7 @@
 ## Misc
 
 - [Beginner's Tutorial on the Pandas Python Library](https://stackabuse.com/beginners-tutorial-on-the-pandas-python-library/)
+- [プログラミング初心者でも出来た！Pythonスクレイピングで、はてブのホットエントリーを取得](https://temcee.hatenablog.com/entry/python-web-scraping)
 - [A simple way to anonymize data with Python and Pandas](https://dev.to/r0f1/a-simple-way-to-anonymize-data-with-python-and-pandas-79g)
 - [Face Detection Using Python and OpenCV](http://www.blog.pythonlibrary.org/2018/08/15/face-detection-using-python-and-opencv/)
 - [How to write secure code in Python](https://py.checkio.org/blog/how-to-write-secure-code-in-python/)
