@@ -18,6 +18,7 @@
 
 ## Github
 
+- [curio](https://github.com/dabeaz/curio)
 - [libasynctasks](https://github.com/AnythingTechPro/libasynctasks)
 - [selinon](https://github.com/selinon/selinon)
 - [csvtotable](https://github.com/vividvilla/csvtotable)
