@@ -321,6 +321,7 @@
 
 ## Python
 
+- [The Magic Behind Python Generator Functions](https://hackernoon.com/the-magic-behind-python-generator-functions-bc8eeea54220)
 - [High-Performance in Python with Zero-Copy and the Buffer Protocol](https://julien.danjou.info/high-performance-in-python-with-zero-copy-and-the-buffer-protocol/)
 - [Dictionaries An almost complete guide to Python's key:value store](https://www.makewithpython.com/article/python-dictionaries/)
 - [Headless Web Scraping in Python with Beautiful Soup 4](https://www.codementor.io/alibabacloud/headless-web-scraping-in-python-with-beautiful-soup-4-mctwzyskk)
