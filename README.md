@@ -288,6 +288,7 @@
 
 ## Asynchronous
 
+- [Developing with Curio](https://curio.readthedocs.io/en/latest/index.html)
 - [Parallelisation In Python — An Alternative Approach](https://medium.com/idealo-tech-blog/parallelisation-in-python-an-alternative-approach-b2749b49a1e)
 - [Async programming in Python with asyncio](http://maked.io/async-programming-in-python/)
 - [A guide to asynchronous programming in Python with asyncio](https://medium.freecodecamp.org/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6)
@@ -323,6 +324,7 @@
 
 ## Python
 
+- [Python Virtual Environments in Five Minutes](https://chriswarrick.com/blog/2018/09/04/python-virtual-environments/)
 - [File Handling in Python](https://stackabuse.com/file-handling-in-python/)
 - [A Closer Look At How Python f-strings Work](https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb)
 - [The Magic Behind Python Generator Functions](https://hackernoon.com/the-magic-behind-python-generator-functions-bc8eeea54220)
