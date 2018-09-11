@@ -321,6 +321,8 @@
 
 ## Python
 
+- [File Handling in Python](https://stackabuse.com/file-handling-in-python/)
+- [A Closer Look At How Python f-strings Work](https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb)
 - [The Magic Behind Python Generator Functions](https://hackernoon.com/the-magic-behind-python-generator-functions-bc8eeea54220)
 - [High-Performance in Python with Zero-Copy and the Buffer Protocol](https://julien.danjou.info/high-performance-in-python-with-zero-copy-and-the-buffer-protocol/)
 - [Dictionaries An almost complete guide to Python's key:value store](https://www.makewithpython.com/article/python-dictionaries/)
