@@ -327,6 +327,7 @@
 
 ## Python
 
+- [7 Strategies For Optimizing Your Code](https://py.checkio.org/blog/7-strategies-for-optimizing-your-code/)
 - [Using Regular Expressions in Python](https://py.checkio.org/blog/using-regular-expressions-in-python/)
 - [Python Virtual Environments in Five Minutes](https://chriswarrick.com/blog/2018/09/04/python-virtual-environments/)
 - [File Handling in Python](https://stackabuse.com/file-handling-in-python/)
