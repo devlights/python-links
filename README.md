@@ -290,6 +290,7 @@
 
 ## Asynchronous
 
+- [An Asyncio socket tutorial](https://medium.com/@pgjones/an-asyncio-socket-tutorial-5e6f3308b8b0)
 - [Developing with Curio](https://curio.readthedocs.io/en/latest/index.html)
 - [Parallelisation In Python — An Alternative Approach](https://medium.com/idealo-tech-blog/parallelisation-in-python-an-alternative-approach-b2749b49a1e)
 - [Async programming in Python with asyncio](http://maked.io/async-programming-in-python/)
