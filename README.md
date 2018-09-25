@@ -98,6 +98,7 @@
 
 ## RealPython
 
+- [Logging in Python](https://realpython.com/python-logging/)
 - [Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
 - [Structuring Python Programs](https://realpython.com/python-program-structure/)
 - [The Ultimate Guide to Django Redirects](https://realpython.com/django-redirects/)
