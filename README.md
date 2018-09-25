@@ -325,6 +325,7 @@
 
 ## Python
 
+- [Using Regular Expressions in Python](https://py.checkio.org/blog/using-regular-expressions-in-python/)
 - [Python Virtual Environments in Five Minutes](https://chriswarrick.com/blog/2018/09/04/python-virtual-environments/)
 - [File Handling in Python](https://stackabuse.com/file-handling-in-python/)
 - [A Closer Look At How Python f-strings Work](https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb)
