@@ -97,6 +97,8 @@
 - [concurrent.futures — 並行処理 in Python](https://heavywatal.github.io/python/concurrent.html)
 
 ## RealPython
+
+- [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 - [Sets in Python](https://realpython.com/python-sets/)
 - [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)
 - [Logging in Python](https://realpython.com/python-logging/)
