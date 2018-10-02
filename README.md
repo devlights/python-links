@@ -18,7 +18,14 @@
 
 ## Github
 
+- [dataset](https://github.com/pudo/dataset)
+- [trio-asyncio](https://github.com/python-trio/trio-asyncio)
+- [trio](https://github.com/python-trio/trio)
 - [curio](https://github.com/dabeaz/curio)
+- [future-breakpoint](https://github.com/asottile/future-breakpoint)
+- [future-fstrings](https://github.com/asottile/future-fstrings)
+- [tributary](https://github.com/timkpaine/tributary)
+- [dumpenv](https://github.com/guettli/dumpenv)
 - [libasynctasks](https://github.com/AnythingTechPro/libasynctasks)
 - [selinon](https://github.com/selinon/selinon)
 - [csvtotable](https://github.com/vividvilla/csvtotable)
@@ -95,6 +102,7 @@
 - [qtmodern](https://github.com/gmarull/qtmodern)
 - [Generate wordcloud of followers' descriptions](https://gist.github.com/simecek/ac263a371830cafe309d88a5d099b887)
 - [concurrent.futures — 並行処理 in Python](https://heavywatal.github.io/python/concurrent.html)
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 
 ## RealPython
 
