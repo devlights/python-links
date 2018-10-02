@@ -100,6 +100,7 @@
 
 - [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 - [Image Segmentation Using Color Spaces in OpenCV + Python](https://realpython.com/python-opencv-color-spaces/)
+- [Python Pandas: Tricks & Features You May Not Know](https://realpython.com/python-pandas-tricks/)
 - [Sets in Python](https://realpython.com/python-sets/)
 - [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)
 - [Logging in Python](https://realpython.com/python-logging/)
