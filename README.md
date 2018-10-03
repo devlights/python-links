@@ -19,6 +19,7 @@
 ## Github
 
 - [aio-libs](https://github.com/aio-libs)
+- [aiozmq](https://github.com/aio-libs/aiozmq)
 - [aioredis](https://github.com/aio-libs/aioredis)
 - [aiohttp](https://github.com/aio-libs/aiohttp)
 - [aiofiles](https://github.com/Tinche/aiofiles)
