@@ -18,6 +18,11 @@
 
 ## Github
 
+- [aio-libs](https://github.com/aio-libs)
+- [aioredis](https://github.com/aio-libs/aioredis)
+- [aiohttp](https://github.com/aio-libs/aiohttp)
+- [aiofiles](https://github.com/Tinche/aiofiles)
+- [aioprocessing](https://github.com/dano/aioprocessing)
 - [dataset](https://github.com/pudo/dataset)
 - [trio-asyncio](https://github.com/python-trio/trio-asyncio)
 - [trio](https://github.com/python-trio/trio)
