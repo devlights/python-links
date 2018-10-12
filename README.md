@@ -345,6 +345,7 @@
 
 ## Python
 
+- [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 - [最近追加されたPythonの便利機能とこれからのPython](http://cocodrips.hateblo.jp/entry/2018/08/26/172938)
 - [7 Strategies For Optimizing Your Code](https://py.checkio.org/blog/7-strategies-for-optimizing-your-code/)
 - [Using Regular Expressions in Python](https://py.checkio.org/blog/using-regular-expressions-in-python/)
