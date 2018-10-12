@@ -345,6 +345,8 @@
 
 ## Python
 
+- [なぜPythonはこんなにも遅いのか？](https://postd.cc/why-is-python-so-slow/)
+- [Write Better Python Functions](https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/)
 - [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 - [最近追加されたPythonの便利機能とこれからのPython](http://cocodrips.hateblo.jp/entry/2018/08/26/172938)
 - [7 Strategies For Optimizing Your Code](https://py.checkio.org/blog/7-strategies-for-optimizing-your-code/)
@@ -538,6 +540,7 @@
 
 ## Misc
 
+- [Beginner web scraping with Python and Repl.it](https://www.codementor.io/garethdwyer/beginner-web-scraping-with-python-and-repl-it-nzr27jvnq)
 - [Beginner's Tutorial on the Pandas Python Library](https://stackabuse.com/beginners-tutorial-on-the-pandas-python-library/)
 - [プログラミング初心者でも出来た！Pythonスクレイピングで、はてブのホットエントリーを取得](https://temcee.hatenablog.com/entry/python-web-scraping)
 - [A simple way to anonymize data with Python and Pandas](https://dev.to/r0f1/a-simple-way-to-anonymize-data-with-python-and-pandas-79g)
