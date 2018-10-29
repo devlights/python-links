@@ -113,6 +113,8 @@
 
 ## RealPython
 
+- [Getting Started With Testing in Python](https://realpython.com/python-testing/)
+- [Python's range() Function (Guide)](https://realpython.com/python-range/)
 - [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 - [Image Segmentation Using Color Spaces in OpenCV + Python](https://realpython.com/python-opencv-color-spaces/)
 - [Python Pandas: Tricks & Features You May Not Know](https://realpython.com/python-pandas-tricks/)
@@ -200,6 +202,8 @@
 
 ## Qiita
 
+- [Pythonにおける非同期処理: asyncio逆引きリファレンス](https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0)
+- [Pythonでこんなことできちゃうんです](https://qiita.com/Namibillow/items/954c7f9f53682d6dd9c9)
 - [pip の constraints の正しい用途](https://qiita.com/methane/items/11219ceedb44c0ebcc75)
 - [Python 開発者は -W default オプションを使おう](https://qiita.com/methane/items/35ac132798051c7f9573)
 - [Python(Click)でデフォルト安全なコマンドラインツールを作る](https://qiita.com/shiimaxx/items/654763a9d7481f3c0188)
