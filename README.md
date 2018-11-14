@@ -113,6 +113,12 @@
 
 ## RealPython
 
+- [Setting Up Python for Machine Learning on Windows](https://realpython.com/python-windows-machine-learning-setup/)
+- [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
+- [How to Round Numbers in Python](https://realpython.com/python-rounding/)
+- [Writing Comments in Python](https://realpython.com/python-comments-guide/)
+- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)
+- [Python "while" Loops (Indefinite Iteration)](https://realpython.com/python-while-loop/)
 - [Getting Started With Testing in Python](https://realpython.com/python-testing/)
 - [Python's range() Function (Guide)](https://realpython.com/python-range/)
 - [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
