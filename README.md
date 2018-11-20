@@ -113,6 +113,7 @@
 
 ## RealPython
 
+- [Interactive Data Visualization in Python With Bokeh](https://realpython.com/python-data-visualization-bokeh/)
 - [Setting Up Python for Machine Learning on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 - [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
 - [How to Round Numbers in Python](https://realpython.com/python-rounding/)
