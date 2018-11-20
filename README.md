@@ -358,6 +358,7 @@
 
 ## Python
 
+- [Python Random Module to Generate random Numbers and Data](https://pynative.com/python-random-module/)
 - [Object Oriented Programming in Python](https://stackabuse.com/object-oriented-programming-in-python/)
 - [Getting User Input in Python](https://stackabuse.com/getting-user-input-in-python/)
 - [Applying Wrapper Methods in Python for Feature Selection](https://stackabuse.com/applying-wrapper-methods-in-python-for-feature-selection/)
