@@ -162,6 +162,7 @@
 - [Introduction to Git and GitHub for Python Developers](https://realpython.com/python-git-github-intro/)
 - [Variables in Python](https://realpython.com/python-variables/)
 - [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
+- [Building and Documenting Python REST APIs With Flask and Connexion – Part 2](https://realpython.com/flask-connexion-rest-api-part-2/)
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
 - [Basic Data Types in Python](https://realpython.com/python-data-types/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
@@ -357,6 +358,13 @@
 
 ## Python
 
+- [Object Oriented Programming in Python](https://stackabuse.com/object-oriented-programming-in-python/)
+- [Getting User Input in Python](https://stackabuse.com/getting-user-input-in-python/)
+- [Applying Wrapper Methods in Python for Feature Selection](https://stackabuse.com/applying-wrapper-methods-in-python-for-feature-selection/)
+- [Quicksort tutorial: Python implementation with line by line explanation](https://www.codementor.io/garethdwyer/quicksort-tutorial-python-implementation-with-line-by-line-explanation-p9h7jd3r6)
+- [Role of Underscore(_) in Python](https://www.datacamp.com/community/tutorials/role-underscore-python)
+- [How to Create, Move, and Delete Files in Python](https://stackabuse.com/how-to-create-move-and-delete-files-in-python-2/)
+- [2018年版・この処理Pythonでどう書く？](https://www.m3tech.blog/entry/python-snippets)
 - [なぜPythonはこんなにも遅いのか？](https://postd.cc/why-is-python-so-slow/)
 - [Write Better Python Functions](https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/)
 - [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
@@ -520,6 +528,7 @@
 
 ## WebFrameworks
 
+- [Asynchronous Python for Web Development](https://stackabuse.com/asynchronous-python-for-web-development/)
 - [Create your own Telegram bot with Django on Heroku – Part 6 – Creating the Django app](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-6-creating-the-django-app/)
 - [Create your own Telegram bot with Django on Heroku – Part 5 – Introduce Heroku](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-4-introduce-heroku/)
 - [Create your own Telegram bot with Django on Heroku – Part 4 – pull vs. push method](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-4-pull-vs-push-method/)
@@ -552,6 +561,8 @@
 
 ## Misc
 
+- [How to JSON schema validate 10x (or 100x) faster in Python](https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python)
+- [Python, Janomeで日本語の形態素解析、分かち書き（単語分割）](https://note.nkmk.me/python-janome-tutorial/)
 - [Beginner web scraping with Python and Repl.it](https://www.codementor.io/garethdwyer/beginner-web-scraping-with-python-and-repl-it-nzr27jvnq)
 - [Beginner's Tutorial on the Pandas Python Library](https://stackabuse.com/beginners-tutorial-on-the-pandas-python-library/)
 - [プログラミング初心者でも出来た！Pythonスクレイピングで、はてブのホットエントリーを取得](https://temcee.hatenablog.com/entry/python-web-scraping)
