@@ -358,6 +358,8 @@
 
 ## Python
 
+- [Python, signal handlers, and exceptions](https://anonbadger.wordpress.com/2018/12/15/python-signal-handlers-and-exceptions/)
+- [How to break Python](https://www.b-list.org/weblog/2016/nov/28/break-python/)
 - [Python Random Module to Generate random Numbers and Data](https://pynative.com/python-random-module/)
 - [Object Oriented Programming in Python](https://stackabuse.com/object-oriented-programming-in-python/)
 - [Getting User Input in Python](https://stackabuse.com/getting-user-input-in-python/)
@@ -562,6 +564,8 @@
 
 ## Misc
 
+- [Introduction to Web Scraping with Python](https://stackabuse.com/introduction-to-web-scraping-with-python/)
+- [Pandas Library for Data Visualization in Python](https://stackabuse.com/pandas-library-for-data-visualization-in-python/)
 - [How to JSON schema validate 10x (or 100x) faster in Python](https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python)
 - [Python, Janomeで日本語の形態素解析、分かち書き（単語分割）](https://note.nkmk.me/python-janome-tutorial/)
 - [Beginner web scraping with Python and Repl.it](https://www.codementor.io/garethdwyer/beginner-web-scraping-with-python-and-repl-it-nzr27jvnq)
