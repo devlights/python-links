@@ -18,6 +18,7 @@
 
 ## Github
 
+- [notify.run](https://notify.run/)
 - [responder](https://github.com/kennethreitz/responder)
 - [aio-libs](https://github.com/aio-libs)
 - [aiozmq](https://github.com/aio-libs/aiozmq)
@@ -113,6 +114,9 @@
 
 ## RealPython
 
+- [Memory Management in Python](https://realpython.com/python-memory-management/)
+- [Continuous Integration With Python: An Introduction](https://realpython.com/python-continuous-integration/)
+- [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [Interactive Data Visualization in Python With Bokeh](https://realpython.com/python-data-visualization-bokeh/)
 - [Setting Up Python for Machine Learning on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 - [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
@@ -210,7 +214,6 @@
 
 ## Qiita
 
-- [Pythonにおける非同期処理: asyncio逆引きリファレンス](https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0)
 - [Pythonでこんなことできちゃうんです](https://qiita.com/Namibillow/items/954c7f9f53682d6dd9c9)
 - [pip の constraints の正しい用途](https://qiita.com/methane/items/11219ceedb44c0ebcc75)
 - [Python 開発者は -W default オプションを使おう](https://qiita.com/methane/items/35ac132798051c7f9573)
@@ -321,6 +324,10 @@
 
 ## Asynchronous
 
+- [Asynchronous vs Synchronous Python Performance Analysis](https://stackabuse.com/asynchronous-vs-synchronous-python-performance-analysis/)
+- [Pythonのジェネレータ、コルーチン、ネイティブコルーチン、そしてasync/await](https://postd.cc/python-generators-coroutines-native-coroutines-and-async-await/)
+- [python3 の async/awaitを理解する](https://qiita.com/maueki/items/8f1e190681682ea11c98)
+- [Pythonにおける非同期処理: asyncio逆引きリファレンス](https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0)
 - [An Asyncio socket tutorial](https://medium.com/@pgjones/an-asyncio-socket-tutorial-5e6f3308b8b0)
 - [Developing with Curio](https://curio.readthedocs.io/en/latest/index.html)
 - [Parallelisation In Python — An Alternative Approach](https://medium.com/idealo-tech-blog/parallelisation-in-python-an-alternative-approach-b2749b49a1e)
@@ -358,6 +365,9 @@
 
 ## Python
 
+- [Lists vs Tuples in Python](https://stackabuse.com/lists-vs-tuples-in-python/)
+- [Search Algorithms in Python](https://stackabuse.com/search-algorithms-in-python/)
+- [Saving Text, JSON, and CSV to a File in Python](https://stackabuse.com/saving-text-json-and-csv-to-a-file-in-python/)
 - [Python, signal handlers, and exceptions](https://anonbadger.wordpress.com/2018/12/15/python-signal-handlers-and-exceptions/)
 - [How to break Python](https://www.b-list.org/weblog/2016/nov/28/break-python/)
 - [Python Random Module to Generate random Numbers and Data](https://pynative.com/python-random-module/)
@@ -564,6 +574,7 @@
 
 ## Misc
 
+- [Python Data Visualization with Matplotlib](https://stackabuse.com/python-data-visualization-with-matplotlib/)
 - [Introduction to Web Scraping with Python](https://stackabuse.com/introduction-to-web-scraping-with-python/)
 - [Pandas Library for Data Visualization in Python](https://stackabuse.com/pandas-library-for-data-visualization-in-python/)
 - [How to JSON schema validate 10x (or 100x) faster in Python](https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python)
