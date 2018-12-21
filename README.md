@@ -114,6 +114,7 @@
 
 ## RealPython
 
+- [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
 - [Memory Management in Python](https://realpython.com/python-memory-management/)
 - [Continuous Integration With Python: An Introduction](https://realpython.com/python-continuous-integration/)
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
@@ -365,6 +366,8 @@
 
 ## Python
 
+- [Python Logging Basics](https://stackabuse.com/python-logging-basics/)
+- [プログラマが持つべき心構え (The Zen of Python)](https://qiita.com/IshitaTakeshi/items/e4145921c8dbf7ba57ef)
 - [Lists vs Tuples in Python](https://stackabuse.com/lists-vs-tuples-in-python/)
 - [Search Algorithms in Python](https://stackabuse.com/search-algorithms-in-python/)
 - [Saving Text, JSON, and CSV to a File in Python](https://stackabuse.com/saving-text-json-and-csv-to-a-file-in-python/)
