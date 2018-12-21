@@ -325,6 +325,11 @@
 
 ## Asynchronous
 
+- [RuntimeError: This event loop is already running in python](https://stackoverflow.com/questions/46827007/runtimeerror-this-event-loop-is-already-running-in-python)
+- [asyncio: Wait for event from other thread](https://stackoverflow.com/questions/33000200/asyncio-wait-for-event-from-other-thread)
+- [Python3での非同期処理まとめ](https://qiita.com/takechanman1228/items/4cc4728abc8ffbb506fe)
+- [Submit a job to an asyncio event loop](https://stackoverflow.com/questions/32586794/submit-a-job-to-an-asyncio-event-loop)
+- [Send asyncio tasks to loop running in other thread](https://stackoverflow.com/questions/32059732/send-asyncio-tasks-to-loop-running-in-other-thread)
 - [Asynchronous vs Synchronous Python Performance Analysis](https://stackabuse.com/asynchronous-vs-synchronous-python-performance-analysis/)
 - [Pythonのジェネレータ、コルーチン、ネイティブコルーチン、そしてasync/await](https://postd.cc/python-generators-coroutines-native-coroutines-and-async-await/)
 - [python3 の async/awaitを理解する](https://qiita.com/maueki/items/8f1e190681682ea11c98)
