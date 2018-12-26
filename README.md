@@ -279,6 +279,27 @@
 
 ## PyQT
 
+- [Python Qt5 - most simple QTreeWidget - part 001.](https://python-catalin.blogspot.com/2018/12/python-qt5-most-simple-qtreewidget-part.html)
+- [Python Qt5 - simple draw with QPainter.](https://python-catalin.blogspot.com/2018/12/python-qt5-simple-draw-with-qpainter.html)
+- [Python Qt5 - complex QML file.](https://python-catalin.blogspot.com/2018/12/python-qt5-complex-qml-file.html)
+- [Python Qt5 - simple checkbox example.](https://python-catalin.blogspot.com/2018/12/python-qt5-simple-checkbox-example.html)
+- [Python Qt5 - submenu example.](https://python-catalin.blogspot.com/2018/11/python-qt5-submenu-example.html)
+- [Python Qt5 - setStyleSheet example.](https://python-catalin.blogspot.com/2018/11/python-qt5-setstylesheet-example.html)
+- [Python Qt5 - QCalendarWidget example.](https://python-catalin.blogspot.com/2018/11/python-qt5-qcalendarwidget-example.html)
+- [Python Qt5 - QTabWidget example.](https://python-catalin.blogspot.com/2018/11/python-qt5-qtabwidget-example.html)
+- [Python Qt5 - default icons with QStyle.](https://python-catalin.blogspot.com/2018/11/python-qt5-default-icons-with-qstyle.html)
+- [Python Qt5 - QFileDialog and QTextEdit example.](https://python-catalin.blogspot.com/2018/11/python-qt5-qfiledialog-and-qtextedit.html)
+- [Python Qt5 - QLCDNumber and QDial example.](https://python-catalin.blogspot.com/2018/11/python-qt5-qlcdnumber-and-qdial-example.html)
+- [Python Qt5 - QColorDialog example.](https://python-catalin.blogspot.com/2018/11/python-qt5-qcolordialog-example.html)
+- [Python Qt5 - tray icon example.](https://python-catalin.blogspot.com/2018/11/python-qt5-tray-icon-example.html)
+- [Python Qt5 - QtSql with QtOpenGL example.](https://python-catalin.blogspot.com/2018/11/python-qt5-qtsql-with-qtopengl-example.html)
+- [Python Qt5 - QtSql with QSQLITE example.](https://python-catalin.blogspot.com/2018/11/python-qt5-qtsql-with-qsqlite-example.html)
+- [Python Qt5 - QtWebEngine example.](https://python-catalin.blogspot.com/2018/11/python-qt5-qtwebengine-example.html)
+- [Python Qt5 - MP3 player example.](https://python-catalin.blogspot.com/2018/10/python-qt5-mp3-player-example.html)
+- [Python Qt5 - webcam example.](https://python-catalin.blogspot.com/2018/10/python-qt5-webcam-example.html)
+- [Python Qt5 - toolbar example.](https://python-catalin.blogspot.com/2018/10/python-qt5-toolbar-example.html)
+- [Python Qt5 - menu example.](https://python-catalin.blogspot.com/2018/04/python-qt5-menu-example.html)
+- [Python 3.6.4 : Testing PyQt5 with Spyder I.D.E.](https://python-catalin.blogspot.com/2018/03/python-364-testing-pyqt5-with-spyder-ide.html)
 - [Python/PyQt](http://wiki.examind.net/index.php?Python/PyQt)
 - [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
 - [PyQt5チュートリアル日本語まとめ[1] - First programs in PyQt5](https://qiita.com/puuuii/items/92c0c8195aafe5904ab2)
@@ -371,6 +392,7 @@
 
 ## Python
 
+- [Pythonユーザーなら知っておきたいのリストの仕組み](https://medium.com/@yasufumy/data-structure-dynamic-array-f7cd008a2f20)
 - [Python Logging Basics](https://stackabuse.com/python-logging-basics/)
 - [プログラマが持つべき心構え (The Zen of Python)](https://qiita.com/IshitaTakeshi/items/e4145921c8dbf7ba57ef)
 - [Lists vs Tuples in Python](https://stackabuse.com/lists-vs-tuples-in-python/)
