@@ -392,6 +392,16 @@
 
 ## Python
 
+- [Python 3 OOP Part 6 - Abstract Base Classes](http://blog.thedigitalcatonline.com/blog/2014/09/04/python-3-oop-part-6-abstract-base-classes/)
+- [Python 3 OOP Part 5 - Metaclasses](http://blog.thedigitalcatonline.com/blog/2014/09/01/python-3-oop-part-5-metaclasses/)
+- [Python 3 OOP Part 4 - Polymorphism](http://blog.thedigitalcatonline.com/blog/2014/08/21/python-3-oop-part-4-polymorphism/)
+- [Python 3 OOP Part 3 - Delegation: composition and inheritance](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-3-delegation-composition-and-inheritance/)
+- [Python 3 OOP Part 2 - Classes and members](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-2-classes-and-members/)
+- [Python 3 OOP Part 1 - Objects and types](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)
+- [Why you should be using pathlib](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
+- [Python Nested Functions](https://stackabuse.com/python-nested-functions/)
+- [PythonでLambda Functionを書く時にデコレータでイベントソース毎の共通処理をすると便利という話](http://marcy.hatenablog.com/entry/2018/12/21/182039)
+- [Intro to the Python Random Module](https://stackabuse.com/intro-to-the-python-random-module/)
 - [Pythonユーザーなら知っておきたいのリストの仕組み](https://medium.com/@yasufumy/data-structure-dynamic-array-f7cd008a2f20)
 - [Python Logging Basics](https://stackabuse.com/python-logging-basics/)
 - [プログラマが持つべき心構え (The Zen of Python)](https://qiita.com/IshitaTakeshi/items/e4145921c8dbf7ba57ef)
@@ -571,6 +581,7 @@
 
 ## WebFrameworks
 
+- [Make a Location-Based Web App With Django and GeoDjango](https://realpython.com/location-based-app-with-geodjango-tutorial/)
 - [Asynchronous Python for Web Development](https://stackabuse.com/asynchronous-python-for-web-development/)
 - [Create your own Telegram bot with Django on Heroku – Part 6 – Creating the Django app](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-6-creating-the-django-app/)
 - [Create your own Telegram bot with Django on Heroku – Part 5 – Introduce Heroku](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-4-introduce-heroku/)
