@@ -397,6 +397,7 @@
 
 ## Python
 
+- [How to Write Perfect Python Command-line Interfaces — Learn by Example](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)
 - [Adding a pipe operator to Python](https://hackernoon.com/adding-a-pipe-operator-to-python-19a3aa295642)
 - [MAKE YOUR PYTHON PRETTIER WITH DECORATORS](https://hackaday.com/2018/08/31/an-introduction-to-decorators-in-python/)
 - [Python Function – A Step By Step Guide For Beginners](https://www.techbeamers.com/python-function/)
