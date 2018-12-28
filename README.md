@@ -18,6 +18,9 @@
 
 ## Github
 
+- [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor)
+- [delegator.py](https://github.com/kennethreitz/delegator.py)
+- [commandlib](https://github.com/crdoconnor/commandlib)
 - [notify.run](https://notify.run/)
 - [responder](https://github.com/kennethreitz/responder)
 - [aio-libs](https://github.com/aio-libs)
@@ -279,6 +282,7 @@
 
 ## PyQT
 
+- [PyQt5 tutorial](https://build-system.fman.io/pyqt5-tutorial)
 - [Python Qt5 - most simple QTreeWidget - part 001.](https://python-catalin.blogspot.com/2018/12/python-qt5-most-simple-qtreewidget-part.html)
 - [Python Qt5 - simple draw with QPainter.](https://python-catalin.blogspot.com/2018/12/python-qt5-simple-draw-with-qpainter.html)
 - [Python Qt5 - complex QML file.](https://python-catalin.blogspot.com/2018/12/python-qt5-complex-qml-file.html)
@@ -346,6 +350,7 @@
 
 ## Asynchronous
 
+- [asyncioの代替ライブラリtrioを調べてみた](https://kiito.hatenablog.com/entry/2018/12/26/110317)
 - [RuntimeError: This event loop is already running in python](https://stackoverflow.com/questions/46827007/runtimeerror-this-event-loop-is-already-running-in-python)
 - [asyncio: Wait for event from other thread](https://stackoverflow.com/questions/33000200/asyncio-wait-for-event-from-other-thread)
 - [Python3での非同期処理まとめ](https://qiita.com/takechanman1228/items/4cc4728abc8ffbb506fe)
@@ -392,6 +397,24 @@
 
 ## Python
 
+- [Adding a pipe operator to Python](https://hackernoon.com/adding-a-pipe-operator-to-python-19a3aa295642)
+- [MAKE YOUR PYTHON PRETTIER WITH DECORATORS](https://hackaday.com/2018/08/31/an-introduction-to-decorators-in-python/)
+- [Python Function – A Step By Step Guide For Beginners](https://www.techbeamers.com/python-function/)
+- [Python Hackery: merging signatures of two Python functions](https://chriswarrick.com/blog/2018/09/20/python-hackery-merging-signatures-of-two-python-functions/)
+- [Introduction to the Python Pickle Module](https://stackabuse.com/introduction-to-the-python-pickle-module/)
+- [A Guide to the Rocky River](http://seddonym.me/2018/09/16/rocky-river-pattern/)
+- [Networking: How To Communicate Between Two Python Programs](https://medium.com/podiihq/networking-how-to-communicate-between-two-python-programs-abd58b97390a)
+- [Overusing lambda expressions in Python](https://treyhunner.com/2018/09/stop-writing-lambda-expressions/)
+- [Python Expressions | Values](https://medium.com/@himankbh/python-expressions-values-fe1b7917f57f)
+- [I want to convert 1fd93d1cf1f13d0d to 00011111 11011001 00111101 00011100 11110001 11110001 00111101 00001101](https://stackoverflow.com/questions/52656487/i-want-to-convert-1fd93d1cf1f13d0d-to-00011111-11011001-00111101-00011100-111100)
+- [visualizing difference between deep and shallow copy](https://stackoverflow.com/questions/52712139/visualizing-difference-between-deep-and-shallow-copy)
+- [How To Publish A Package On PyPI](https://py.checkio.org/blog/how-to-publish-a-package-on-pypi/)
+- [Python GUI Development with Tkinter: Part 3](https://stackabuse.com/python-gui-development-with-tkinter-part-3/)
+- [Python GUI Development with Tkinter: Part 2](https://stackabuse.com/python-gui-development-with-tkinter-part-2/)
+- [Python GUI Development with Tkinter](https://stackabuse.com/python-gui-development-with-tkinter/)
+- [Complete guide about Python Lists](https://www.codementor.io/sadhanareddy/complete-guide-about-python-lists-qlkvjpiic)
+- [Strings in Python](https://www.codementor.io/sadhanareddy/strings-in-python-qmva1ktv4)
+- [Exceptions in Python](https://www.codementor.io/sadhanareddy/exceptions-in-python-qlzks8mpv)
 - [Python 3 OOP Part 6 - Abstract Base Classes](http://blog.thedigitalcatonline.com/blog/2014/09/04/python-3-oop-part-6-abstract-base-classes/)
 - [Python 3 OOP Part 5 - Metaclasses](http://blog.thedigitalcatonline.com/blog/2014/09/01/python-3-oop-part-5-metaclasses/)
 - [Python 3 OOP Part 4 - Polymorphism](http://blog.thedigitalcatonline.com/blog/2014/08/21/python-3-oop-part-4-polymorphism/)
@@ -615,6 +638,9 @@
 
 ## Misc
 
+- [Pandas Excel Tutorial: How to Read and Write Excel files](https://www.marsja.se/pandas-excel-tutorial-how-to-read-and-write-excel-files/)
+- [Pandas Read CSV Tutorial](https://www.marsja.se/pandas-read-csv-tutorial-to-csv/)
+- [Using Plotly Library for Interactive Data Visualization in Python](https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/)
 - [Python Data Visualization with Matplotlib](https://stackabuse.com/python-data-visualization-with-matplotlib/)
 - [Introduction to Web Scraping with Python](https://stackabuse.com/introduction-to-web-scraping-with-python/)
 - [Pandas Library for Data Visualization in Python](https://stackabuse.com/pandas-library-for-data-visualization-in-python/)
