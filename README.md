@@ -397,6 +397,7 @@
 
 ## Python
 
+- [Python remove inner items of a sequence in a list](https://stackoverflow.com/questions/52748914/python-remove-inner-items-of-a-sequence-in-a-list)
 - [How to Write Perfect Python Command-line Interfaces — Learn by Example](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)
 - [Adding a pipe operator to Python](https://hackernoon.com/adding-a-pipe-operator-to-python-19a3aa295642)
 - [MAKE YOUR PYTHON PRETTIER WITH DECORATORS](https://hackaday.com/2018/08/31/an-introduction-to-decorators-in-python/)
@@ -639,6 +640,8 @@
 
 ## Misc
 
+- [Pandas DataFrame: A lightweight Intro](https://towardsdatascience.com/pandas-dataframe-a-lightweight-intro-680e3a212b96)
+- [How to scrape data from a website using Python](https://www.codementor.io/oluwagbengajoloko/how-to-scrape-data-from-a-website-using-python-n3fmtc63q)
 - [Pandas Excel Tutorial: How to Read and Write Excel files](https://www.marsja.se/pandas-excel-tutorial-how-to-read-and-write-excel-files/)
 - [Pandas Read CSV Tutorial](https://www.marsja.se/pandas-read-csv-tutorial-to-csv/)
 - [Using Plotly Library for Interactive Data Visualization in Python](https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/)
