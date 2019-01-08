@@ -18,6 +18,7 @@
 
 ## Github
 
+- [cookiecutter](https://github.com/audreyr/cookiecutter)
 - [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor)
 - [delegator.py](https://github.com/kennethreitz/delegator.py)
 - [commandlib](https://github.com/crdoconnor/commandlib)
@@ -117,6 +118,7 @@
 
 ## RealPython
 
+- [The Ultimate Guide to Python Type Checking](https://realpython.com/python-type-checking/)
 - [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
 - [Memory Management in Python](https://realpython.com/python-memory-management/)
 - [Continuous Integration With Python: An Introduction](https://realpython.com/python-continuous-integration/)
@@ -397,6 +399,13 @@
 
 ## Python
 
+- [How to Rock Python Packaging with Poetry and Briefcase](https://dan.yeaw.me/posts/python-packaging-with-poetry-and-briefcase/)
+- [Pythonメモ : cookiecutterでプロジェクトの雛形を作成する](https://wonderwall.hatenablog.com/entry/2017/09/07/211000)
+- [Introduction to Python's Collections Module](https://stackabuse.com/introduction-to-pythons-collections-module/)
+- [Python Context Managers](https://stackabuse.com/python-context-managers/)
+- [Introduction to Python Iterators](https://stackabuse.com/introduction-to-python-iterators/)
+- [Learn Python Programming (The Definitive Guide)](https://www.programiz.com/python-programming)
+- [Python Dictionary Tutorial](https://www.dataquest.io/blog/python-dictionary-tutorial/)
 - [Python remove inner items of a sequence in a list](https://stackoverflow.com/questions/52748914/python-remove-inner-items-of-a-sequence-in-a-list)
 - [How to Write Perfect Python Command-line Interfaces — Learn by Example](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)
 - [Adding a pipe operator to Python](https://hackernoon.com/adding-a-pipe-operator-to-python-19a3aa295642)
