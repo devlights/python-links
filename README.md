@@ -18,6 +18,7 @@
 
 ## Github
 
+- [asks](https://github.com/theelous3/asks)
 - [cookiecutter](https://github.com/audreyr/cookiecutter)
 - [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor)
 - [delegator.py](https://github.com/kennethreitz/delegator.py)
@@ -352,6 +353,7 @@
 
 ## Asynchronous
 
+- [Is asyncio too hard to use? Try Trio!](https://medium.com/elements/is-asyncio-too-hard-to-use-try-trio-8c50d0f6d46)
 - [asyncioの代替ライブラリtrioを調べてみた](https://kiito.hatenablog.com/entry/2018/12/26/110317)
 - [RuntimeError: This event loop is already running in python](https://stackoverflow.com/questions/46827007/runtimeerror-this-event-loop-is-already-running-in-python)
 - [asyncio: Wait for event from other thread](https://stackoverflow.com/questions/33000200/asyncio-wait-for-event-from-other-thread)
@@ -399,6 +401,7 @@
 
 ## Python
 
+- [Inside python dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - [How to Rock Python Packaging with Poetry and Briefcase](https://dan.yeaw.me/posts/python-packaging-with-poetry-and-briefcase/)
 - [Pythonメモ : cookiecutterでプロジェクトの雛形を作成する](https://wonderwall.hatenablog.com/entry/2017/09/07/211000)
 - [Introduction to Python's Collections Module](https://stackabuse.com/introduction-to-pythons-collections-module/)
