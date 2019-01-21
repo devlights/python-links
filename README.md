@@ -119,6 +119,9 @@
 
 ## RealPython
 
+- [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
+- [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
+- [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 - [The Ultimate Guide to Python Type Checking](https://realpython.com/python-type-checking/)
 - [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
 - [Memory Management in Python](https://realpython.com/python-memory-management/)
