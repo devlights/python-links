@@ -119,6 +119,10 @@
 
 ## RealPython
 
+- [Python’s Requests Library (Guide)](https://realpython.com/python-requests/)
+- [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/)
+- [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/)
+- [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
 - [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
 - [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
@@ -404,6 +408,8 @@
 
 ## Python
 
+- [The Zen of Python](https://www.codementor.io/mikebell66/the-zen-of-python-s0cvequqn)
+- [Type hints cheat sheet (Python 3)](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
 - [Inside python dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - [How to Rock Python Packaging with Poetry and Briefcase](https://dan.yeaw.me/posts/python-packaging-with-poetry-and-briefcase/)
 - [Pythonメモ : cookiecutterでプロジェクトの雛形を作成する](https://wonderwall.hatenablog.com/entry/2017/09/07/211000)
