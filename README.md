@@ -217,14 +217,6 @@
 - [Simplifying Offline Python Deployments With Docker](https://realpython.com/blog/python/offline-python-deployments-with-docker/)
 - [Mocking External APIs in Python](https://realpython.com/blog/python/testing-third-party-apis-with-mocks/)
 - [Building a Simple Web App With Bottle, SQLAlchemy, and the Twitter API](https://realpython.com/blog/python/building-a-simple-web-app-with-bottle-sqlalchemy-twitter-api/)
-- [Flask by Example – Project Setup](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
-- [Flask by Example – Setting up Postgres, SQLAlchemy, and Alembic](https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
-- [Flask by Example – Text Processing with Requests, BeautifulSoup, and NLTK](https://realpython.com/blog/python/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/)
-- [Flask by Example – Implementing a Redis Task Queue](https://realpython.com/blog/python/flask-by-example-implementing-a-redis-task-queue/)
-- [Flask by Example – Integrating Flask and Angular](https://realpython.com/blog/python/flask-by-example-integrating-flask-and-angularjs/)
-- [Flask by Example – Updating the Staging Environment](https://realpython.com/blog/python/updating-the-staging-environment/)
-- [Flask by Example – Updating the UI](https://realpython.com/blog/python/flask-by-example-updating-the-ui/)
-- [Flask by Example – Custom Angular Directive with D3](https://realpython.com/blog/python/flask-by-example-custom-angular-directive-with-d3/)
 
 ## Qiita
 
@@ -627,6 +619,14 @@
 
 ## WebFrameworks
 
+- [Flask by Example – Project Setup](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
+- [Flask by Example – Setting up Postgres, SQLAlchemy, and Alembic](https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
+- [Flask by Example – Text Processing with Requests, BeautifulSoup, and NLTK](https://realpython.com/blog/python/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/)
+- [Flask by Example – Implementing a Redis Task Queue](https://realpython.com/blog/python/flask-by-example-implementing-a-redis-task-queue/)
+- [Flask by Example – Integrating Flask and Angular](https://realpython.com/blog/python/flask-by-example-integrating-flask-and-angularjs/)
+- [Flask by Example – Updating the Staging Environment](https://realpython.com/blog/python/updating-the-staging-environment/)
+- [Flask by Example – Updating the UI](https://realpython.com/blog/python/flask-by-example-updating-the-ui/)
+- [Flask by Example – Custom Angular Directive with D3](https://realpython.com/blog/python/flask-by-example-custom-angular-directive-with-d3/)
 - [Make a Location-Based Web App With Django and GeoDjango](https://realpython.com/location-based-app-with-geodjango-tutorial/)
 - [Asynchronous Python for Web Development](https://stackabuse.com/asynchronous-python-for-web-development/)
 - [Create your own Telegram bot with Django on Heroku – Part 6 – Creating the Django app](https://www.marc-richter.info/create-your-own-telegram-bot-with-django-on-heroku-part-6-creating-the-django-app/)
