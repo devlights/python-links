@@ -119,6 +119,7 @@
 
 ## RealPython
 
+- [The Factory Method Pattern and Its Implementation in Python](https://realpython.com/factory-method-python/)
 - [Python’s Requests Library (Guide)](https://realpython.com/python-requests/)
 - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/)
 - [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/)
@@ -400,6 +401,15 @@
 
 ## Python
 
+- [Dead Simple Python: Errors](https://dev.to/codemouse92/dead-simple-python-errors-l82)
+- [Dead Simple Python: Classes](https://dev.to/codemouse92/dead-simple-python-classes-42f7)
+- [Dead Simple Python: Data Typing and Immutability](https://dev.to/codemouse92/dead-simple-python-data-typing-and-immutability-41dm)
+- [Dead Simple Python: Project Structure and Imports](https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6)
+- [Dead Simple Python: Virtual Environments and pip](https://dev.to/codemouse92/dead-simple-python-virtual-environments-and-pip-5b56)
+- [Introducing "Dead Simple Python"](https://dev.to/codemouse92/introducing-dead-simple-python-563o)
+- [List Comprehension in Python](https://hackernoon.com/list-comprehension-in-python-c762ba1f523f)
+- [Try out walrus operator in Python 3.8](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
+- [What’s in a (Python’s) __name__?](https://medium.freecodecamp.org/whats-in-a-python-s-name-506262fe61e8)
 - [The Zen of Python](https://www.codementor.io/mikebell66/the-zen-of-python-s0cvequqn)
 - [Type hints cheat sheet (Python 3)](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
 - [Inside python dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
