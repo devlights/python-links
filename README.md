@@ -401,6 +401,15 @@
 
 ## Python
 
+- [What’s __init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
+- [Python’s Collections Module — High-performance container data types.](https://towardsdatascience.com/pythons-collections-module-high-performance-container-data-types-cb4187afb5fc)
+- [Comparing Python Virtual Environment tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)
+- [Python Basics: Mutable vs Immutable Objects](https://towardsdatascience.com/https-towardsdatascience-com-python-basics-mutable-vs-immutable-objects-829a0cb1530a)
+- [Python Basics: Tuples](https://towardsdatascience.com/python-basics-tuples-9bb3851257b5)
+- [Learn Enough Python to be Useful Part 2: How to Use if __name__ == “__main__ “](https://towardsdatascience.com/learn-enough-python-to-be-useful-part-2-34f0e9e3fc9d)
+- [Python List Comprehensions in 5-minutes](https://towardsdatascience.com/python-list-comprehensions-in-5-minutes-40a68cbe4561)
+- [6 steps to understanding a heap with Python](https://towardsdatascience.com/data-structure-heap-23d4c78a6962)
+- [Learn Enough Python to be Useful: argparse](https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05)
 - [Dead Simple Python: Errors](https://dev.to/codemouse92/dead-simple-python-errors-l82)
 - [Dead Simple Python: Classes](https://dev.to/codemouse92/dead-simple-python-classes-42f7)
 - [Dead Simple Python: Data Typing and Immutability](https://dev.to/codemouse92/dead-simple-python-data-typing-and-immutability-41dm)
