@@ -401,6 +401,9 @@
 
 ## Python
 
+- [Python Basics: Iteration, Iterables, Iterators, and Looping](https://towardsdatascience.com/python-basics-iteration-and-looping-6ca63b30835c)
+- [Python Basics: List Comprehensions](https://towardsdatascience.com/python-basics-list-comprehensions-631278f22c40)
+- [Progress Bars in Python](https://towardsdatascience.com/progress-bars-in-python-4b44e8a4c482)
 - [What’s __init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
 - [Python’s Collections Module — High-performance container data types.](https://towardsdatascience.com/pythons-collections-module-high-performance-container-data-types-cb4187afb5fc)
 - [Comparing Python Virtual Environment tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)
