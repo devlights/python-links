@@ -18,6 +18,7 @@
 
 ## Github
 
+- [more-itertools](https://github.com/erikrose/more-itertools)
 - [asks](https://github.com/theelous3/asks)
 - [cookiecutter](https://github.com/audreyr/cookiecutter)
 - [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor)
