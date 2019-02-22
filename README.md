@@ -18,6 +18,10 @@
 
 ## Github
 
+- [termgraph](https://github.com/mkaz/termgraph)
+- [pampy](https://github.com/santinic/pampy)
+- [loguru](https://github.com/Delgan/loguru)
+- [tasktiger](https://github.com/closeio/tasktiger)
 - [more-itertools](https://github.com/erikrose/more-itertools)
 - [asks](https://github.com/theelous3/asks)
 - [cookiecutter](https://github.com/audreyr/cookiecutter)
@@ -120,6 +124,9 @@
 
 ## RealPython
 
+- [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
+- [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/)
+- [Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
 - [The Factory Method Pattern and Its Implementation in Python](https://realpython.com/factory-method-python/)
 - [Python’s Requests Library (Guide)](https://realpython.com/python-requests/)
 - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/)
@@ -402,6 +409,7 @@
 
 ## Python
 
+- [Getting started with Python Language](https://riptutorial.com/python/topic/193/getting-started-with-python-language)
 - [Python Basics: Iteration, Iterables, Iterators, and Looping](https://towardsdatascience.com/python-basics-iteration-and-looping-6ca63b30835c)
 - [Python Basics: List Comprehensions](https://towardsdatascience.com/python-basics-list-comprehensions-631278f22c40)
 - [Progress Bars in Python](https://towardsdatascience.com/progress-bars-in-python-4b44e8a4c482)
