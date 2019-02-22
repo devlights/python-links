@@ -409,6 +409,7 @@
 
 ## Python
 
+- [Python Performance Optimization](https://stackabuse.com/python-performance-optimization/)
 - [Getting started with Python Language](https://riptutorial.com/python/topic/193/getting-started-with-python-language)
 - [Python Basics: Iteration, Iterables, Iterators, and Looping](https://towardsdatascience.com/python-basics-iteration-and-looping-6ca63b30835c)
 - [Python Basics: List Comprehensions](https://towardsdatascience.com/python-basics-list-comprehensions-631278f22c40)
