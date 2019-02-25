@@ -18,6 +18,7 @@
 
 ## Github
 
+- [pydocstyle](https://github.com/PyCQA/pydocstyle/)
 - [pyrsistent](https://github.com/tobgu/pyrsistent)
 - [python-patterns](https://github.com/faif/python-patterns)
 - [termgraph](https://github.com/mkaz/termgraph)
