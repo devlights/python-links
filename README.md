@@ -18,6 +18,8 @@
 
 ## Github
 
+- [pyrsistent](https://github.com/tobgu/pyrsistent)
+- [python-patterns](https://github.com/faif/python-patterns)
 - [termgraph](https://github.com/mkaz/termgraph)
 - [pampy](https://github.com/santinic/pampy)
 - [loguru](https://github.com/Delgan/loguru)
@@ -361,6 +363,9 @@
 
 ## Asynchronous
 
+- [Asynchronous programming. Await the Future](https://luminousmen.com/post/asynchronous-programming-await-the-future)
+- [Asynchronous programming. Cooperative multitasking](https://luminousmen.com/post/asynchronous-programming-cooperative-multitasking)
+- [Asynchronous programming. Blocking I/O and non-blocking I/O](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
 - [Is asyncio too hard to use? Try Trio!](https://medium.com/elements/is-asyncio-too-hard-to-use-try-trio-8c50d0f6d46)
 - [asyncioの代替ライブラリtrioを調べてみた](https://kiito.hatenablog.com/entry/2018/12/26/110317)
 - [RuntimeError: This event loop is already running in python](https://stackoverflow.com/questions/46827007/runtimeerror-this-event-loop-is-already-running-in-python)
@@ -409,6 +414,7 @@
 
 ## Python
 
+- [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
 - [Python Performance Optimization](https://stackabuse.com/python-performance-optimization/)
 - [Getting started with Python Language](https://riptutorial.com/python/topic/193/getting-started-with-python-language)
 - [Python Basics: Iteration, Iterables, Iterators, and Looping](https://towardsdatascience.com/python-basics-iteration-and-looping-6ca63b30835c)
