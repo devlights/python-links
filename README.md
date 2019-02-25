@@ -415,6 +415,9 @@
 
 ## Python
 
+- [Python: Twine を使って PyPI にパッケージをアップロードする](https://blog.amedama.jp/entry/2017/12/31/175036)
+- [setuptools — Pythonパッケージ作成](https://heavywatal.github.io/python/setuptools.html)
+- [Python: 自作ライブラリのパッケージングについて](https://blog.amedama.jp/entry/packaging-python)
 - [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
 - [Python Performance Optimization](https://stackabuse.com/python-performance-optimization/)
 - [Getting started with Python Language](https://riptutorial.com/python/topic/193/getting-started-with-python-language)
