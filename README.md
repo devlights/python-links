@@ -462,7 +462,7 @@
 - [A Guide to the Rocky River](http://seddonym.me/2018/09/16/rocky-river-pattern/)
 - [Networking: How To Communicate Between Two Python Programs](https://medium.com/podiihq/networking-how-to-communicate-between-two-python-programs-abd58b97390a)
 - [Overusing lambda expressions in Python](https://treyhunner.com/2018/09/stop-writing-lambda-expressions/)
-- [Python Expressions | Values](https://medium.com/@himankbh/python-expressions-values-fe1b7917f57f)
+- [Python Expressions Values](https://medium.com/@himankbh/python-expressions-values-fe1b7917f57f)
 - [I want to convert 1fd93d1cf1f13d0d to 00011111 11011001 00111101 00011100 11110001 11110001 00111101 00001101](https://stackoverflow.com/questions/52656487/i-want-to-convert-1fd93d1cf1f13d0d-to-00011111-11011001-00111101-00011100-111100)
 - [visualizing difference between deep and shallow copy](https://stackoverflow.com/questions/52712139/visualizing-difference-between-deep-and-shallow-copy)
 - [How To Publish A Package On PyPI](https://py.checkio.org/blog/how-to-publish-a-package-on-pypi/)
