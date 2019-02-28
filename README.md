@@ -416,6 +416,7 @@
 
 ## Python
 
+- [Introduction to the Python Pathlib Module](https://stackabuse.com/introduction-to-the-python-pathlib-module/)
 - [Mutable vs Immutable Objects in Python](https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747)
 - [Python: Twine を使って PyPI にパッケージをアップロードする](https://blog.amedama.jp/entry/2017/12/31/175036)
 - [setuptools — Pythonパッケージ作成](https://heavywatal.github.io/python/setuptools.html)
