@@ -18,7 +18,10 @@
 
 ## Github
 
+- [py-spy](https://github.com/benfred/py-spy)
+- [pipx](https://github.com/pipxproject/pipx)
 - [bullet](https://github.com/Mckinsey666/bullet)
+  - 2019-03-01: サポートしているのは Linux のみ。
 - [pydocstyle](https://github.com/PyCQA/pydocstyle/)
 - [pyrsistent](https://github.com/tobgu/pyrsistent)
 - [python-patterns](https://github.com/faif/python-patterns)
@@ -416,6 +419,7 @@
 
 ## Python
 
+- [Using the -m Option to Run Modules](http://dev.prodigi.us/post/python-using-m-option-run-modules/)
 - [Introduction to the Python Pathlib Module](https://stackabuse.com/introduction-to-the-python-pathlib-module/)
 - [Mutable vs Immutable Objects in Python](https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747)
 - [Python: Twine を使って PyPI にパッケージをアップロードする](https://blog.amedama.jp/entry/2017/12/31/175036)
