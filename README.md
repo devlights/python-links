@@ -18,6 +18,7 @@
 
 ## Github
 
+- [pytube](https://github.com/nficano/pytube)
 - [py-spy](https://github.com/benfred/py-spy)
 - [pipx](https://github.com/pipxproject/pipx)
 - [bullet](https://github.com/Mckinsey666/bullet)
