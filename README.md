@@ -420,6 +420,7 @@
 
 ## Python
 
+- [10 Python File System Methods You Should Know](https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2)
 - [Using the -m Option to Run Modules](http://dev.prodigi.us/post/python-using-m-option-run-modules/)
 - [Introduction to the Python Pathlib Module](https://stackabuse.com/introduction-to-the-python-pathlib-module/)
 - [Mutable vs Immutable Objects in Python](https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747)
