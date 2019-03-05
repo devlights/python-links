@@ -18,6 +18,7 @@
 
 ## Github
 
+- [black](https://github.com/ambv/black)
 - [pytube](https://github.com/nficano/pytube)
 - [py-spy](https://github.com/benfred/py-spy)
 - [pipx](https://github.com/pipxproject/pipx)
