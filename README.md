@@ -18,6 +18,7 @@
 
 ## Github
 
+- [tabula-py](https://github.com/chezou/tabula-py)
 - [black](https://github.com/ambv/black)
 - [pytube](https://github.com/nficano/pytube)
 - [py-spy](https://github.com/benfred/py-spy)
