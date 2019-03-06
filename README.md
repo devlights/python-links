@@ -133,6 +133,7 @@
 
 ## RealPython
 
+- [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/)
 - [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
 - [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/)
 - [Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
@@ -421,6 +422,8 @@
 
 ## Python
 
+- [Tips and tricks for unit tests (with Python & Pytest)](https://medium.com/worldsensing-techblog/tips-and-tricks-for-unit-tests-b35af5ba79b1)
+- [Introduction to Python Decorators](https://stackabuse.com/introduction-to-python-decorators/)
 - [10 Python File System Methods You Should Know](https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2)
 - [Using the -m Option to Run Modules](http://dev.prodigi.us/post/python-using-m-option-run-modules/)
 - [Introduction to the Python Pathlib Module](https://stackabuse.com/introduction-to-the-python-pathlib-module/)
@@ -713,6 +716,7 @@
 
 ## Misc
 
+- [Replacing Excel with Python](https://medium.com/@ank0409/replacing-excel-with-python-30aa060d35e)
 - [Pandas DataFrame: A lightweight Intro](https://towardsdatascience.com/pandas-dataframe-a-lightweight-intro-680e3a212b96)
 - [How to scrape data from a website using Python](https://www.codementor.io/oluwagbengajoloko/how-to-scrape-data-from-a-website-using-python-n3fmtc63q)
 - [Pandas Excel Tutorial: How to Read and Write Excel files](https://www.marsja.se/pandas-excel-tutorial-how-to-read-and-write-excel-files/)
