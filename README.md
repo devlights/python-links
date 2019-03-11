@@ -18,6 +18,8 @@
 
 ## Github
 
+- [bandit](https://github.com/PyCQA/bandit)
+- [returns](https://github.com/dry-python/returns)
 - [tabula-py](https://github.com/chezou/tabula-py)
 - [black](https://github.com/ambv/black)
 - [pytube](https://github.com/nficano/pytube)
@@ -40,6 +42,7 @@
 - [commandlib](https://github.com/crdoconnor/commandlib)
 - [notify.run](https://notify.run/)
 - [responder](https://github.com/kennethreitz/responder)
+- [aioconsole](https://github.com/vxgmichel/aioconsole)
 - [aio-libs](https://github.com/aio-libs)
 - [aiozmq](https://github.com/aio-libs/aiozmq)
 - [aioredis](https://github.com/aio-libs/aioredis)
@@ -134,6 +137,7 @@
 
 ## RealPython
 
+- [Using PyInstaller to Easily Distribute Python Applications](https://realpython.com/pyinstaller-python/)
 - [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/)
 - [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
 - [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/)
@@ -372,6 +376,9 @@
 
 ## Asynchronous
 
+- [I’m too stupid for AsyncIO](https://whatisjasongoldstein.com/writing/im-too-stupid-for-asyncio/)
+- [Asynchronous programming. Blocking I/O and non-blocking I/O](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
+- [Async/await for wxPython](https://medium.com/@abulka/async-await-for-wxpython-c78c667e0872)
 - [Asynchronous programming. Await the Future](https://luminousmen.com/post/asynchronous-programming-await-the-future)
 - [Asynchronous programming. Cooperative multitasking](https://luminousmen.com/post/asynchronous-programming-cooperative-multitasking)
 - [Asynchronous programming. Blocking I/O and non-blocking I/O](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
@@ -423,6 +430,25 @@
 
 ## Python
 
+- [Python Security Best Practices Cheat Sheet](https://snyk.io/blog/python-security-best-practices-cheat-sheet/)
+- [Downloading Files using Python (Simple Examples)](https://www.codementor.io/likegeeks/downloading-files-using-python-simple-examples-s45zhpgyj)
+- [Analyzing Your File System and Folder Structures with Python](https://janakiev.com/blog/python-filesystem-analysis/)
+- [Simple dependent types in Python](https://dev.to/wemake-services/simple-dependent-types-in-python-4e14)
+- [Modules and packages: how to create a Python project](https://www.internalpointers.com/post/modules-and-packages-create-python-project)
+- [Python: \_\_name\_\_ == “\_\_main\_\_” Explained](https://www.afternerd.com/blog/python-__name__-__main__/)
+- [10 Python File System Methods You Should Know](https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2)
+- [Getting Started with Pathlib](https://www.codementor.io/iyanuashiri/getting-started-with-pathlib-s8rsr4i98)
+- [Python Itertools: For a faster and memory efficient code](https://kanoki.org/2019/02/08/python-itertools/)
+- [Python exceptions considered an anti-pattern](https://sobolevn.me/2019/02/python-exceptions-considered-an-antipattern)
+- [Python Basics: Functions](https://towardsdatascience.com/python-basics-functions-ed7c35e194a9)
+- [IPython alias to preload your favorite modules and activate autoreload](https://towardsdatascience.com/tips-ipython-d5ea85c5e9be)
+- [Sorting and Merging Single Linked List](https://stackabuse.com/sorting-and-merging-single-linked-list/)
+- [全言語で気をつけるべき、ファイル書き込み時のお作法](https://qiita.com/kazupaka/items/b6479f3f8d13347bf867)
+- [Regular Expressions in Python](https://getpocket.com/a/queue/list/)
+- [Understanding Python slices](https://blog.lerner.co.il/understanding-python-slices/)
+- [Wrapping C with Python in 5 minutes (via ctypes)](https://medium.com/@mliuzzolino/wrapping-c-with-python-in-5-minutes-cdd1124f5c01)
+- [10 Steps to Set Up Your Python Project for Success](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13)
+- [Introduction to Python OS Module](https://stackabuse.com/introduction-to-python-os-module/)
 - [Tuple in Python](https://medium.com/@knoldus/tuple-in-python-bf7d3b88e83b)
 - [Python Tutorial | A Complete Guide to Learn Python Programming](https://www.codementor.io/saurabh426/python-tutorial-a-complete-guide-to-learn-python-programming-stnws0uas)
 - [pythonでバイナリファイルを16進ダンプ ＆ バイナリファイルを画像化](https://qiita.com/taka_baya/items/c22bd5f5e7cb3de90988)
@@ -723,6 +749,8 @@
 
 ## Misc
 
+- [Interactive plotting with Bokeh](https://towardsdatascience.com/interactive-plotting-with-bokeh-ea40ab10870)
+- [A simple guide for creating Virtual Environment in Jupyter Notebook(Python) for Windows.](https://medium.com/@utkarsh.ankit09/a-simple-guide-for-creating-virtual-environment-in-jupyter-notebook-python-for-windows-1649041aaae1)
 - [Replacing Excel with Python](https://medium.com/@ank0409/replacing-excel-with-python-30aa060d35e)
 - [Pandas DataFrame: A lightweight Intro](https://towardsdatascience.com/pandas-dataframe-a-lightweight-intro-680e3a212b96)
 - [How to scrape data from a website using Python](https://www.codementor.io/oluwagbengajoloko/how-to-scrape-data-from-a-website-using-python-n3fmtc63q)
