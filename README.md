@@ -423,6 +423,12 @@
 
 ## Python
 
+- [Tuple in Python](https://medium.com/@knoldus/tuple-in-python-bf7d3b88e83b)
+- [Python Tutorial | A Complete Guide to Learn Python Programming](https://www.codementor.io/saurabh426/python-tutorial-a-complete-guide-to-learn-python-programming-stnws0uas)
+- [pythonでバイナリファイルを16進ダンプ ＆ バイナリファイルを画像化](https://qiita.com/taka_baya/items/c22bd5f5e7cb3de90988)
+- [No.044【Python】文字列のリスト・辞書への変換：ast.literal_eval()](https://qiita.com/You-Tarin/items/f92f65ab53be51eef819)
+- [Everything About Python — Beginner To Advance](https://medium.com/fintechexplained/everything-about-python-from-beginner-to-advance-level-227d52ef32d2)
+- [Python でモジュールごとに logging する。または dictConfig の落とし穴。](https://qiita.com/propella/items/5ad25eca11de2a871a06)
 - [Tips and tricks for unit tests (with Python & Pytest)](https://medium.com/worldsensing-techblog/tips-and-tricks-for-unit-tests-b35af5ba79b1)
 - [Introduction to Python Decorators](https://stackabuse.com/introduction-to-python-decorators/)
 - [10 Python File System Methods You Should Know](https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2)
