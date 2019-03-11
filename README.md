@@ -18,6 +18,10 @@
 
 ## Github
 
+- [regex](https://pypi.org/project/regex/)
+  - 標準モジュールの ```re``` よりもいろいろな書式に対応しているライブラリ
+  - 戻り値などは 標準モジュール ```re``` に合わせてある
+  - アトミックグループの指定が可能
 - [bandit](https://github.com/PyCQA/bandit)
 - [returns](https://github.com/dry-python/returns)
 - [tabula-py](https://github.com/chezou/tabula-py)
