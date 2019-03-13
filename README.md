@@ -18,6 +18,8 @@
 
 ## Github
 
+- [yarl](https://github.com/aio-libs/yarl)
+- [async-timeout](https://github.com/aio-libs/async-timeout)
 - [regex](https://pypi.org/project/regex/)
   - 標準モジュールの ```re``` よりもいろいろな書式に対応しているライブラリ
   - 戻り値などは 標準モジュール ```re``` に合わせてある
