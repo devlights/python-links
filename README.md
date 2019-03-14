@@ -143,6 +143,7 @@
 
 ## RealPython
 
+- [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
 - [Using PyInstaller to Easily Distribute Python Applications](https://realpython.com/pyinstaller-python/)
 - [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/)
 - [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
@@ -382,6 +383,7 @@
 
 ## Asynchronous
 
+- [Python simple socket client/server using asyncio](https://stackoverflow.com/questions/48506460/python-simple-socket-client-server-using-asyncio)
 - [I’m too stupid for AsyncIO](https://whatisjasongoldstein.com/writing/im-too-stupid-for-asyncio/)
 - [Asynchronous programming. Blocking I/O and non-blocking I/O](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
 - [Async/await for wxPython](https://medium.com/@abulka/async-await-for-wxpython-c78c667e0872)
@@ -436,6 +438,9 @@
 
 ## Python
 
+- [Getting Started with Python in Visual Studio Code](https://scotch.io/tutorials/getting-started-with-python-in-visual-studio-code)
+- [Python Basics Part 2](https://medium.com/@larong2122/python-basics-part-2-39134f575cf9)
+- [Python Basics Part 1](https://medium.com/@larong2122/python-basics-part-1-ca0d3d03d8ff)
 - [Python Security Best Practices Cheat Sheet](https://snyk.io/blog/python-security-best-practices-cheat-sheet/)
 - [Downloading Files using Python (Simple Examples)](https://www.codementor.io/likegeeks/downloading-files-using-python-simple-examples-s45zhpgyj)
 - [Analyzing Your File System and Folder Structures with Python](https://janakiev.com/blog/python-filesystem-analysis/)
@@ -755,6 +760,7 @@
 
 ## Misc
 
+- [Pythonの可視化ライブラリDashを使う　1](https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c)
 - [Interactive plotting with Bokeh](https://towardsdatascience.com/interactive-plotting-with-bokeh-ea40ab10870)
 - [A simple guide for creating Virtual Environment in Jupyter Notebook(Python) for Windows.](https://medium.com/@utkarsh.ankit09/a-simple-guide-for-creating-virtual-environment-in-jupyter-notebook-python-for-windows-1649041aaae1)
 - [Replacing Excel with Python](https://medium.com/@ank0409/replacing-excel-with-python-30aa060d35e)
