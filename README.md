@@ -143,6 +143,8 @@
 
 ## RealPython
 
+- [How to Build a Python GUI Application With wxPython](https://realpython.com/python-gui-with-wxpython/)
+- [Understanding the Python Mock Object Library](https://realpython.com/python-mock-library/)
 - [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
 - [Using PyInstaller to Easily Distribute Python Applications](https://realpython.com/pyinstaller-python/)
 - [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/)
