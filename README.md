@@ -385,6 +385,8 @@
 
 ## Asynchronous
 
+- [Pythonの並列処理・並行処理のための標準モジュールの比較](https://minus9d.hatenablog.com/entry/2017/10/26/231241)
+- [Let’s Talk about Python’s GIL](https://medium.com/pyslackers/lets-talk-about-python-s-gil-ade59022bc83)
 - [Python simple socket client/server using asyncio](https://stackoverflow.com/questions/48506460/python-simple-socket-client-server-using-asyncio)
 - [I’m too stupid for AsyncIO](https://whatisjasongoldstein.com/writing/im-too-stupid-for-asyncio/)
 - [Asynchronous programming. Blocking I/O and non-blocking I/O](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
@@ -440,6 +442,8 @@
 
 ## Python
 
+- [Hunting for Memory Leaks in Python applications](https://medium.com/zendesk-engineering/hunting-for-memory-leaks-in-python-applications-6824d0518774)
+- [Different types of Operators in Python](https://medium.com/@rinu.gour123/different-types-of-operators-in-python-a2dde168f0a8)
 - [Getting Started with Python in Visual Studio Code](https://scotch.io/tutorials/getting-started-with-python-in-visual-studio-code)
 - [Python Basics Part 2](https://medium.com/@larong2122/python-basics-part-2-39134f575cf9)
 - [Python Basics Part 1](https://medium.com/@larong2122/python-basics-part-1-ca0d3d03d8ff)
