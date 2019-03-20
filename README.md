@@ -767,6 +767,7 @@
 
 ## Misc
 
+- [Python Charts — Bubble, 3D Charts with Properties of Chart](https://medium.com/@rinu.gour123/python-charts-bubble-3d-charts-with-properties-of-chart-574baae59080)
 - [Pythonの可視化ライブラリDashを使う　1](https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c)
 - [Interactive plotting with Bokeh](https://towardsdatascience.com/interactive-plotting-with-bokeh-ea40ab10870)
 - [A simple guide for creating Virtual Environment in Jupyter Notebook(Python) for Windows.](https://medium.com/@utkarsh.ankit09/a-simple-guide-for-creating-virtual-environment-in-jupyter-notebook-python-for-windows-1649041aaae1)
