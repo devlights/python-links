@@ -443,6 +443,7 @@
 
 ## Python
 
+- [The Best Way to Make Command-line Interfaces in Python](https://medium.com/@ahadsheriff/the-best-way-to-make-command-line-interfaces-in-python-e00e8b9d10c9)
 - [What the mock? — A cheatsheet for mocking in Python](https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832)
   - モックオブジェクトについての素晴らしい記事
 - [How to clone or copy a list?](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
