@@ -12,6 +12,7 @@
 - [Asynchronous](#asynchronous)
 - [Python Language](#python)
 - [Web Frameworks](#webframeworks)
+- [Transitions with Python](#transitions)
 - [Misc](#misc)
 
 ---
@@ -764,6 +765,18 @@
 - [Step-by-Step Guide on Deploying a Simple Flask App to Heroku](https://pybit.es/deploy-flask-heroku.html)
 - [Django・WSGIミドルウェア入門/django-congress-jp-2018-talk](https://speakerdeck.com/thinkami/django-congress-jp-2018-talk)
 - [Django未経験者に送るDjango入門ロードマップ](https://qiita.com/nossey/items/03e114a7b728a8b2ae55)
+
+## Transtions
+
+- [transitions](https://github.com/pytransitions/transitions)
+- [Pythonで状態遷移(transitions)](https://qiita.com/noca/items/f7ffd4acc641a809ac67)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【準備編】](https://qiita.com/noca/items/53c01ac5afb687a98db8)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【状態編】](https://qiita.com/noca/items/dcdd149c6189098afa39)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【遷移編1】](https://qiita.com/noca/items/a132bb5e1ad4bf4eff6a)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【遷移編2】](https://qiita.com/noca/items/1d887ad21ef0c66a4c58)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【コールバック編1】](https://qiita.com/noca/items/6a809bd1527b8e667da0)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【コールバック編2】](https://qiita.com/noca/items/2db1ac853ee285d04c0b)
+- [Pythonの状態遷移パッケージ(transitions)で状態遷移表を自動生成する](https://qiita.com/noca/items/d42f7f68ef41d88a3b04)
 
 ## Misc
 
