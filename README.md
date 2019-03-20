@@ -443,6 +443,8 @@
 
 ## Python
 
+- [What the mock? — A cheatsheet for mocking in Python](https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832)
+  - モックオブジェクトについての素晴らしい記事
 - [How to clone or copy a list?](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
 - [Hunting for Memory Leaks in Python applications](https://medium.com/zendesk-engineering/hunting-for-memory-leaks-in-python-applications-6824d0518774)
 - [Different types of Operators in Python](https://medium.com/@rinu.gour123/different-types-of-operators-in-python-a2dde168f0a8)
