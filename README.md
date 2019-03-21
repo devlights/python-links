@@ -443,6 +443,19 @@
 
 ## Python
 
+- [Python 3 OOP Part 6 - Abstract Base Classes](http://blog.thedigitalcatonline.com/blog/2014/09/04/python-3-oop-part-6-abstract-base-classes/)
+- [Python 3 OOP Part 5 - Metaclasses](http://blog.thedigitalcatonline.com/blog/2014/09/01/python-3-oop-part-5-metaclasses/)
+- [Python 3 OOP Part 4 - Polymorphism](http://blog.thedigitalcatonline.com/blog/2014/08/21/python-3-oop-part-4-polymorphism/)
+- [Python 3 OOP Part 3 - Delegation: composition and inheritance](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-3-delegation-composition-and-inheritance/)
+- [Python 3 OOP Part 2 - Classes and members](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-2-classes-and-members/)
+- [Python 3 OOP Part 1 - Objects and types](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)
+- [Advanced use of Python decorators and metaclasses](http://www.thedigitalcatonline.com/blog/2014/10/14/decorators-and-metaclasses/)
+- [Accessing attributes in Python](http://www.thedigitalcatonline.com/blog/2015/01/12/accessing-attributes-in-python/)
+- [A simple example of Python OOP development (with TDD) - Part 2](http://www.thedigitalcatonline.com/blog/2015/09/10/python-oop-tdd-example-part2/)
+- [A simple example of Python OOP development (with TDD) - Part 1](http://www.thedigitalcatonline.com/blog/2015/05/13/python-oop-tdd-example-part1/)
+- [Abstract Base Classes in Python](http://www.thedigitalcatonline.com/blog/2016/04/03/abstract-base-classes-in-python/)
+- [Python Mocks: a gentle introduction - Part 2](http://www.thedigitalcatonline.com/blog/2016/09/27/python-mocks-a-gentle-introduction-part-2/)
+- [Python Mocks: a gentle introduction - Part 1](http://www.thedigitalcatonline.com/blog/2016/03/06/python-mocks-a-gentle-introduction-part-1/)
 - [The Best Way to Make Command-line Interfaces in Python](https://medium.com/@ahadsheriff/the-best-way-to-make-command-line-interfaces-in-python-e00e8b9d10c9)
 - [What the mock? — A cheatsheet for mocking in Python](https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832)
   - モックオブジェクトについての素晴らしい記事
@@ -540,12 +553,6 @@
 - [Complete guide about Python Lists](https://www.codementor.io/sadhanareddy/complete-guide-about-python-lists-qlkvjpiic)
 - [Strings in Python](https://www.codementor.io/sadhanareddy/strings-in-python-qmva1ktv4)
 - [Exceptions in Python](https://www.codementor.io/sadhanareddy/exceptions-in-python-qlzks8mpv)
-- [Python 3 OOP Part 6 - Abstract Base Classes](http://blog.thedigitalcatonline.com/blog/2014/09/04/python-3-oop-part-6-abstract-base-classes/)
-- [Python 3 OOP Part 5 - Metaclasses](http://blog.thedigitalcatonline.com/blog/2014/09/01/python-3-oop-part-5-metaclasses/)
-- [Python 3 OOP Part 4 - Polymorphism](http://blog.thedigitalcatonline.com/blog/2014/08/21/python-3-oop-part-4-polymorphism/)
-- [Python 3 OOP Part 3 - Delegation: composition and inheritance](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-3-delegation-composition-and-inheritance/)
-- [Python 3 OOP Part 2 - Classes and members](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-2-classes-and-members/)
-- [Python 3 OOP Part 1 - Objects and types](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)
 - [Why you should be using pathlib](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 - [Python Nested Functions](https://stackabuse.com/python-nested-functions/)
 - [PythonでLambda Functionを書く時にデコレータでイベントソース毎の共通処理をすると便利という話](http://marcy.hatenablog.com/entry/2018/12/21/182039)
