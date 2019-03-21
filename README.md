@@ -443,6 +443,16 @@
 
 ## Python
 
+- [PyFilesystem is greater than or equal to Pathlib](https://www.willmcgugan.com/blog/tech/post/pyfilesystem-vs-pathlib/)
+- [Lambda Functions in Python](https://stackabuse.com/lambda-functions-in-python/)
+- [Big O Notation and Algorithm Analysis with Python Examples](https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/)
+- [Stacks and Queues in Python](https://stackabuse.com/stacks-and-queues-in-python/)
+- [Understanding Recursive Functions with Python](https://stackabuse.com/understanding-recursive-functions-with-python/)
+- [Python class decorator - part II - with configuration arguments](https://www.codementor.io/dobristoilov/python-class-decorator-part-ii-with-configuration-arguments-rv73o8pjn)
+- [Python Class Decorator - Part I - simple without configuration arguments.](https://www.codementor.io/dobristoilov/python-class-decorator-part-1-simple-without-configuration-arguments-rsjqa3qi8)
+- [Functional Programming in Python](https://stackabuse.com/functional-programming-in-python/)
+- [Relative vs Absolute Imports in Python](https://stackabuse.com/relative-vs-absolute-imports-in-python/)
+- [Best Way to Learn Python (Step-by-Step Guide)](https://www.afternerd.com/blog/learn-python/)
 - [Python 3 OOP Part 6 - Abstract Base Classes](http://blog.thedigitalcatonline.com/blog/2014/09/04/python-3-oop-part-6-abstract-base-classes/)
 - [Python 3 OOP Part 5 - Metaclasses](http://blog.thedigitalcatonline.com/blog/2014/09/01/python-3-oop-part-5-metaclasses/)
 - [Python 3 OOP Part 4 - Polymorphism](http://blog.thedigitalcatonline.com/blog/2014/08/21/python-3-oop-part-4-polymorphism/)
@@ -553,6 +563,8 @@
 - [Complete guide about Python Lists](https://www.codementor.io/sadhanareddy/complete-guide-about-python-lists-qlkvjpiic)
 - [Strings in Python](https://www.codementor.io/sadhanareddy/strings-in-python-qmva1ktv4)
 - [Exceptions in Python](https://www.codementor.io/sadhanareddy/exceptions-in-python-qlzks8mpv)
+- [Filesystem Magic with Python](https://www.willmcgugan.com/blog/tech/post/filesystem-magic-with-python/)
+- [No really, pathlib is great](https://treyhunner.com/2019/01/no-really-pathlib-is-great/)
 - [Why you should be using pathlib](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 - [Python Nested Functions](https://stackabuse.com/python-nested-functions/)
 - [PythonでLambda Functionを書く時にデコレータでイベントソース毎の共通処理をすると便利という話](http://marcy.hatenablog.com/entry/2018/12/21/182039)
