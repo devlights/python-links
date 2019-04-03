@@ -19,6 +19,13 @@
 
 ## Github
 
+- [python-networkmanager](https://github.com/seveas/python-networkmanager)
+  - D-BUSインターフェースを内部で利用しているパッケージ
+  - D-BUS 自体が 主に UNIX 系OS で利用されているものなので Windows OS では使われていなさそう
+    - Windows で 使おうと思ったらおそらく dbus4win が必要と思われる
+- [sh](https://github.com/amoffat/sh)
+  - ver 1.12.14 現在サポートされているOSは Mac と Linux のみ。
+  - Windows で import するとエラーメッセージが表示される
 - [yarl](https://github.com/aio-libs/yarl)
 - [async-timeout](https://github.com/aio-libs/async-timeout)
 - [regex](https://pypi.org/project/regex/)
@@ -144,6 +151,8 @@
 
 ## RealPython
 
+- [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/)
+- [Get Started With Django Part 1: Build a Portfolio App](https://realpython.com/get-started-with-django-1/)
 - [How to Build a Python GUI Application With wxPython](https://realpython.com/python-gui-with-wxpython/)
 - [Understanding the Python Mock Object Library](https://realpython.com/python-mock-library/)
 - [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
@@ -443,6 +452,10 @@
 
 ## Python
 
+- [“Yield” Statement in Python](https://medium.com/@sumitvaish/yield-statement-in-python-cef3503d97d5)
+- [File Handling in Python](https://medium.com/@aditya.s0110/file-handling-in-python-830138c4fe23)
+- [Is Python Really Scalable?](https://medium.com/@trungluongquang/is-python-really-scalable-90e0d028ba4a)
+- [Getting Started with Python #1](https://medium.com/visualcode/getting-started-with-python-1-873d6814a8a4)
 - [PyFilesystem is greater than or equal to Pathlib](https://www.willmcgugan.com/blog/tech/post/pyfilesystem-vs-pathlib/)
 - [Lambda Functions in Python](https://stackabuse.com/lambda-functions-in-python/)
 - [Big O Notation and Algorithm Analysis with Python Examples](https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/)
@@ -794,14 +807,18 @@
 - [Pythonで状態遷移(transitions)](https://qiita.com/noca/items/f7ffd4acc641a809ac67)
 - [Pythonの状態遷移パッケージ(transitions)を理解する【準備編】](https://qiita.com/noca/items/53c01ac5afb687a98db8)
 - [Pythonの状態遷移パッケージ(transitions)を理解する【状態編】](https://qiita.com/noca/items/dcdd149c6189098afa39)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【状態編2】](https://qiita.com/noca/items/e7cd12179d37b2cb4675)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【状態編3】](https://qiita.com/noca/items/5479ef8a9f681e4385c6)
 - [Pythonの状態遷移パッケージ(transitions)を理解する【遷移編1】](https://qiita.com/noca/items/a132bb5e1ad4bf4eff6a)
 - [Pythonの状態遷移パッケージ(transitions)を理解する【遷移編2】](https://qiita.com/noca/items/1d887ad21ef0c66a4c58)
 - [Pythonの状態遷移パッケージ(transitions)を理解する【コールバック編1】](https://qiita.com/noca/items/6a809bd1527b8e667da0)
 - [Pythonの状態遷移パッケージ(transitions)を理解する【コールバック編2】](https://qiita.com/noca/items/2db1ac853ee285d04c0b)
 - [Pythonの状態遷移パッケージ(transitions)で状態遷移表を自動生成する](https://qiita.com/noca/items/d42f7f68ef41d88a3b04)
+- [Pythonの状態遷移パッケージ(transitions)を理解する【HSM編1】](https://qiita.com/noca/items/6c0870d8fa63095d6b96)
 
 ## Misc
 
+- [Python Network Manager Tutorial](https://medium.com/@f.i.rabby/python-network-manager-tutorial-c504cdb8fc76)
 - [Python Charts — Bubble, 3D Charts with Properties of Chart](https://medium.com/@rinu.gour123/python-charts-bubble-3d-charts-with-properties-of-chart-574baae59080)
 - [Pythonの可視化ライブラリDashを使う　1](https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c)
 - [Interactive plotting with Bokeh](https://towardsdatascience.com/interactive-plotting-with-bokeh-ea40ab10870)
