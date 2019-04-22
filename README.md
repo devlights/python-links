@@ -818,6 +818,7 @@
 
 ## Misc
 
+- [Visualization Libraries for Python](https://medium.com/@TinyDataSci/visualization-libraries-for-python-5ba4ab054a12)
 - [Python Network Manager Tutorial](https://medium.com/@f.i.rabby/python-network-manager-tutorial-c504cdb8fc76)
 - [Python Charts — Bubble, 3D Charts with Properties of Chart](https://medium.com/@rinu.gour123/python-charts-bubble-3d-charts-with-properties-of-chart-574baae59080)
 - [Pythonの可視化ライブラリDashを使う　1](https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c)
