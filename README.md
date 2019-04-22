@@ -7,6 +7,7 @@
 - [Github](#github)
 - [RealPython](#realpython)
 - [Qiita](#qiita)
+- [wxPython](#wxpython)
 - [PyQT](#pyqt)
 - [Tutorials](#tutorials)
 - [Asynchronous](#asynchronous)
@@ -325,6 +326,10 @@
 - [Python デコレータ再入門 デコレータは種類別に覚えよう](https://qiita.com/makky05/items/1be6cf0f1f238b5ba01b)
 - [【Python基礎】モジュール化](https://qiita.com/Tocyuki/items/fb99d9bdb71875843357)
 
+## wxPython
+
+- [【Python】wxPythonを使ってフォルダ選択ダイアログを作成してみた](https://qiita.com/OKsaiyowa/items/6b2ffe00eff8c799d0f1)
+
 ## PyQT
 
 - [PyQt5 tutorial](https://build-system.fman.io/pyqt5-tutorial)
@@ -395,6 +400,7 @@
 
 ## Asynchronous
 
+- [Python + Trio の非同期コーディングパターン](https://qiita.com/yura/items/689d065aba00fe14fbba)
 - [Pythonの並列処理・並行処理のための標準モジュールの比較](https://minus9d.hatenablog.com/entry/2017/10/26/231241)
 - [Let’s Talk about Python’s GIL](https://medium.com/pyslackers/lets-talk-about-python-s-gil-ade59022bc83)
 - [Python simple socket client/server using asyncio](https://stackoverflow.com/questions/48506460/python-simple-socket-client-server-using-asyncio)
@@ -452,6 +458,11 @@
 
 ## Python
 
+- [Pythonのモジュールとimportとfrom入門](https://qiita.com/tetutetuman/items/6e3d9ff6d797243c77c3)
+- [Type checking your Python code!](https://medium.com/juntos-somos-mais/type-checking-your-python-code-76d24b75a2ee)
+- [Download files with progress in Python](https://medium.com/@petehouston/download-files-with-progress-in-python-96f14f6417a2)
+- [初心者向け・Pythonのdoctestモジュールを使ってユニットテストする方法](http://bit.ly/2VcMtK6)
+- [Python: trace recursive function](https://medium.com/@dizpers/python-trace-recursive-function-2be9ea546d84)
 - [“Yield” Statement in Python](https://medium.com/@sumitvaish/yield-statement-in-python-cef3503d97d5)
 - [File Handling in Python](https://medium.com/@aditya.s0110/file-handling-in-python-830138c4fe23)
 - [Is Python Really Scalable?](https://medium.com/@trungluongquang/is-python-really-scalable-90e0d028ba4a)
@@ -819,6 +830,7 @@
 ## Misc
 
 - [Visualization Libraries for Python](https://medium.com/@TinyDataSci/visualization-libraries-for-python-5ba4ab054a12)
+- [Working with PostgreSQL in Python](https://stackabuse.com/working-with-postgresql-in-python/)
 - [Python Network Manager Tutorial](https://medium.com/@f.i.rabby/python-network-manager-tutorial-c504cdb8fc76)
 - [Python Charts — Bubble, 3D Charts with Properties of Chart](https://medium.com/@rinu.gour123/python-charts-bubble-3d-charts-with-properties-of-chart-574baae59080)
 - [Pythonの可視化ライブラリDashを使う　1](https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c)
