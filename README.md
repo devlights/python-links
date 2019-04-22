@@ -829,6 +829,7 @@
 
 ## Misc
 
+- [KivyアプリをPyinstallerでEXE化する](https://qiita.com/cookieee626/items/5848d82143fc135f1c62)
 - [Visualization Libraries for Python](https://medium.com/@TinyDataSci/visualization-libraries-for-python-5ba4ab054a12)
 - [Working with PostgreSQL in Python](https://stackabuse.com/working-with-postgresql-in-python/)
 - [Python Network Manager Tutorial](https://medium.com/@f.i.rabby/python-network-manager-tutorial-c504cdb8fc76)
