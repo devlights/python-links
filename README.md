@@ -21,6 +21,7 @@
 
 ## Github
 
+- [plyer](https://github.com/kivy/plyer)
 - [python-networkmanager](https://github.com/seveas/python-networkmanager)
   - D-BUSインターフェースを内部で利用しているパッケージ
   - D-BUS 自体が 主に UNIX 系OS で利用されているものなので Windows OS では使われていなさそう
