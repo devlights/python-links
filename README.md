@@ -154,6 +154,7 @@
 
 ## RealPython
 
+- [Python KeyError Exceptions and How to Handle Them](https://realpython.com/python-keyerror/)
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3](https://realpython.com/flask-connexion-rest-api-part-3/)
 - [What Is Pip? A Guide for New Pythonistas](https://realpython.com/what-is-pip/)
 - [How to Work With a PDF in Python](https://realpython.com/pdf-python/)
