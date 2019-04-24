@@ -152,6 +152,7 @@
 
 ## RealPython
 
+- [A Beginner’s Guide to the Python time Module](https://realpython.com/python-time-module/)
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/)
 - [Get Started With Django Part 1: Build a Portfolio App](https://realpython.com/get-started-with-django-1/)
 - [How to Build a Python GUI Application With wxPython](https://realpython.com/python-gui-with-wxpython/)
