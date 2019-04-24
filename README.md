@@ -464,6 +464,7 @@
 
 ## Python
 
+- [Introduction to Generators in Python](https://thecodebits.com/introduction-to-generators-in-python/)
 - [Pythonのモジュールとimportとfrom入門](https://qiita.com/tetutetuman/items/6e3d9ff6d797243c77c3)
 - [Type checking your Python code!](https://medium.com/juntos-somos-mais/type-checking-your-python-code-76d24b75a2ee)
 - [Download files with progress in Python](https://medium.com/@petehouston/download-files-with-progress-in-python-96f14f6417a2)
