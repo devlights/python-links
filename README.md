@@ -154,6 +154,7 @@
 
 ## RealPython
 
+- [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3](https://realpython.com/flask-connexion-rest-api-part-3/)
 - [What Is Pip? A Guide for New Pythonistas](https://realpython.com/what-is-pip/)
 - [How to Work With a PDF in Python](https://realpython.com/pdf-python/)
 - [A Beginner’s Guide to the Python time Module](https://realpython.com/python-time-module/)
@@ -409,6 +410,7 @@
 
 ## Asynchronous
 
+- [Python : Threading vs Multiprocessing](https://medium.com/@ksarthak4ever/python-threading-vs-multiprocessing-338724634bb6)
 - [Python + Trio の非同期コーディングパターン](https://qiita.com/yura/items/689d065aba00fe14fbba)
 - [Pythonの並列処理・並行処理のための標準モジュールの比較](https://minus9d.hatenablog.com/entry/2017/10/26/231241)
 - [Let’s Talk about Python’s GIL](https://medium.com/pyslackers/lets-talk-about-python-s-gil-ade59022bc83)
@@ -467,6 +469,9 @@
 
 ## Python
 
+- [Leveraging the power of decorators in Python’s unit-test framework](https://medium.com/@AuthorVivek/leveraging-the-power-of-decorators-in-pythons-unit-test-framework-5ae0285d0d27)
+- [PEP8 — Coding style in Python](https://medium.com/devopslinks/pep8-coding-style-in-python-2c4202d597cf)
+- [Python3で実行途中にインタラクティブな操作へ移る](https://qiita.com/lobmto/items/e9ea14e03222dea8e986)
 - [Introduction to Generators in Python](https://thecodebits.com/introduction-to-generators-in-python/)
 - [Pythonのモジュールとimportとfrom入門](https://qiita.com/tetutetuman/items/6e3d9ff6d797243c77c3)
 - [Type checking your Python code!](https://medium.com/juntos-somos-mais/type-checking-your-python-code-76d24b75a2ee)
@@ -839,6 +844,8 @@
 
 ## Misc
 
+- [ZeroMQのDEALER - ROUTERパターンをPythonで試す](https://qiita.com/charon/items/44cb2650b3bbc50ea942)
+- [Introduction to the Python lxml Library](https://stackabuse.com/introduction-to-the-python-lxml-library/)
 - [KivyアプリをPyinstallerでEXE化する](https://qiita.com/cookieee626/items/5848d82143fc135f1c62)
 - [Visualization Libraries for Python](https://medium.com/@TinyDataSci/visualization-libraries-for-python-5ba4ab054a12)
 - [Working with PostgreSQL in Python](https://stackabuse.com/working-with-postgresql-in-python/)
