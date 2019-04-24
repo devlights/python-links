@@ -153,6 +153,8 @@
 
 ## RealPython
 
+- [What Is Pip? A Guide for New Pythonistas](https://realpython.com/what-is-pip/)
+- [How to Work With a PDF in Python](https://realpython.com/pdf-python/)
 - [A Beginner’s Guide to the Python time Module](https://realpython.com/python-time-module/)
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/)
 - [Get Started With Django Part 1: Build a Portfolio App](https://realpython.com/get-started-with-django-1/)
