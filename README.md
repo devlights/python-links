@@ -21,6 +21,7 @@
 
 ## Github
 
+- [aiojobs](https://git.io/fjn1o)
 - [plyer](https://github.com/kivy/plyer)
 - [python-networkmanager](https://github.com/seveas/python-networkmanager)
   - D-BUSインターフェースを内部で利用しているパッケージ
