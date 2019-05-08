@@ -21,6 +21,9 @@
 
 ## Github
 
+- [hub](https://hub.github.com/)
+- [pytablewriter](https://github.com/thombashi/pytablewriter)
+- [pytablereader](https://github.com/thombashi/pytablereader)
 - [aiojobs](https://git.io/fjn1o)
 - [plyer](https://github.com/kivy/plyer)
 - [python-networkmanager](https://github.com/seveas/python-networkmanager)
@@ -155,6 +158,7 @@
 
 ## RealPython
 
+- [How to Use sorted() and sort() in Python](https://realpython.com/python-sort/)
 - [Python KeyError Exceptions and How to Handle Them](https://realpython.com/python-keyerror/)
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3](https://realpython.com/flask-connexion-rest-api-part-3/)
 - [What Is Pip? A Guide for New Pythonistas](https://realpython.com/what-is-pip/)
