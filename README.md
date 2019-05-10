@@ -344,6 +344,8 @@
 
 ## wxPython
 
+- [wxPython入門記事スライド](https://www.slideshare.net/YasushiMasuda/wxpythonpython201403)
+- [wxPython入門記事リスト](https://www.python-izm.com/gui/wxpython/#wxPython-2)
 - [【Python】wxPythonを使ってフォルダ選択ダイアログを作成してみた](https://qiita.com/OKsaiyowa/items/6b2ffe00eff8c799d0f1)
 
 ## PyQT
