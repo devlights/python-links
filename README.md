@@ -21,6 +21,7 @@
 
 ## Github
 
+- [apscheduler](https://github.com/agronholm/apscheduler)
 - [hub](https://hub.github.com/)
 - [pytablewriter](https://github.com/thombashi/pytablewriter)
 - [pytablereader](https://github.com/thombashi/pytablereader)
@@ -418,6 +419,8 @@
 
 ## Asynchronous
 
+- [非同期スレッドでキューを処理する](https://qiita.com/John_sugai/items/a63707aac2cdcccb6127)
+- [Pythonの並列処理・並行処理をしっかり調べてみた](https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac)
 - [Python : Threading vs Multiprocessing](https://medium.com/@ksarthak4ever/python-threading-vs-multiprocessing-338724634bb6)
 - [Python + Trio の非同期コーディングパターン](https://qiita.com/yura/items/689d065aba00fe14fbba)
 - [Pythonの並列処理・並行処理のための標準モジュールの比較](https://minus9d.hatenablog.com/entry/2017/10/26/231241)
@@ -477,6 +480,10 @@
 
 ## Python
 
+- [Test Driven Development with pytest](https://stackabuse.com/test-driven-development-with-pytest/)
+- [Getting to Know Python 3.7: Data Classes, async/await and More!](https://blog.heroku.com/python37-dataclasses-async-await)
+- [itertoolsを用いて順列, 組合せを作ろう](https://qiita.com/pontyo4/items/3333c5c9493d7df4ca28)
+- [Python dicts and memory usage](https://lerner.co.il/2019/05/12/python-dicts-and-memory-usage/)
 - [Leveraging the power of decorators in Python’s unit-test framework](https://medium.com/@AuthorVivek/leveraging-the-power-of-decorators-in-pythons-unit-test-framework-5ae0285d0d27)
 - [PEP8 — Coding style in Python](https://medium.com/devopslinks/pep8-coding-style-in-python-2c4202d597cf)
 - [Python3で実行途中にインタラクティブな操作へ移る](https://qiita.com/lobmto/items/e9ea14e03222dea8e986)
@@ -852,6 +859,10 @@
 
 ## Misc
 
+- [VSCodeでのPythonのデバッグと、Dockerコンテナ環境に接続してリモートデバッグする方法](https://qiita.com/Ryuichirou/items/6327ab5012ca1729d72f)
+- [PyCharm + Docker + Python3.7の開発環境構築メモ](https://qiita.com/tomitz/items/722960b124600391f491)
+- [入門pandas - 明日からはじめるデータ分析のきほん](https://shinyorke.hatenablog.com/entry/nyumon-pandas)
+- [Working with PDFs in Python: Adding Images and Watermarks](https://stackabuse.com/working-with-pdfs-in-python-adding-images-and-watermarks/)
 - [ZeroMQのDEALER - ROUTERパターンをPythonで試す](https://qiita.com/charon/items/44cb2650b3bbc50ea942)
 - [Introduction to the Python lxml Library](https://stackabuse.com/introduction-to-the-python-lxml-library/)
 - [KivyアプリをPyinstallerでEXE化する](https://qiita.com/cookieee626/items/5848d82143fc135f1c62)
