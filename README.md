@@ -159,6 +159,7 @@
 
 ## RealPython
 
+- [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
 - [How to Use sorted() and sort() in Python](https://realpython.com/python-sort/)
 - [Python KeyError Exceptions and How to Handle Them](https://realpython.com/python-keyerror/)
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3](https://realpython.com/flask-connexion-rest-api-part-3/)
@@ -480,6 +481,8 @@
 
 ## Python
 
+- [Python For Loops: A Tutorial](https://www.dataquest.io/blog/python-for-loop-tutorial/)
+- [Python で大量のファイルを並列で速く読み込む](https://qiita.com/hoto17296/items/586dc01aee69cd4915cc)
 - [Test Driven Development with pytest](https://stackabuse.com/test-driven-development-with-pytest/)
 - [Getting to Know Python 3.7: Data Classes, async/await and More!](https://blog.heroku.com/python37-dataclasses-async-await)
 - [itertoolsを用いて順列, 組合せを作ろう](https://qiita.com/pontyo4/items/3333c5c9493d7df4ca28)
