@@ -21,7 +21,10 @@
 
 ## Github
 
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+  - ソースは bitbucket で公開されているが分けるのが面倒なのでここに含めておく
 - [apscheduler](https://github.com/agronholm/apscheduler)
+  - 標準ライブラリの sched よりも多機能なライブラリ
 - [hub](https://hub.github.com/)
 - [pytablewriter](https://github.com/thombashi/pytablewriter)
 - [pytablereader](https://github.com/thombashi/pytablereader)
@@ -159,6 +162,7 @@
 
 ## RealPython
 
+- [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)
 - [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
 - [How to Use sorted() and sort() in Python](https://realpython.com/python-sort/)
 - [Python KeyError Exceptions and How to Handle Them](https://realpython.com/python-keyerror/)
@@ -420,6 +424,7 @@
 
 ## Asynchronous
 
+- [Python で大量のファイルを並列で速く読み込む](https://qiita.com/hoto17296/items/586dc01aee69cd4915cc)
 - [非同期スレッドでキューを処理する](https://qiita.com/John_sugai/items/a63707aac2cdcccb6127)
 - [Pythonの並列処理・並行処理をしっかり調べてみた](https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac)
 - [Python : Threading vs Multiprocessing](https://medium.com/@ksarthak4ever/python-threading-vs-multiprocessing-338724634bb6)
@@ -481,8 +486,8 @@
 
 ## Python
 
+- [Python Modules | All You Need To Know](https://www.codementor.io/waseem599/python-modules-all-you-need-to-know-v1rvvdbt7)
 - [Python For Loops: A Tutorial](https://www.dataquest.io/blog/python-for-loop-tutorial/)
-- [Python で大量のファイルを並列で速く読み込む](https://qiita.com/hoto17296/items/586dc01aee69cd4915cc)
 - [Test Driven Development with pytest](https://stackabuse.com/test-driven-development-with-pytest/)
 - [Getting to Know Python 3.7: Data Classes, async/await and More!](https://blog.heroku.com/python37-dataclasses-async-await)
 - [itertoolsを用いて順列, 組合せを作ろう](https://qiita.com/pontyo4/items/3333c5c9493d7df4ca28)
@@ -862,6 +867,7 @@
 
 ## Misc
 
+- [pythonのOpenPyXLでExcelのデータをとことん読み取る](https://qiita.com/mimitaro/items/2b48b377b14018bdf6cb)
 - [VSCodeでのPythonのデバッグと、Dockerコンテナ環境に接続してリモートデバッグする方法](https://qiita.com/Ryuichirou/items/6327ab5012ca1729d72f)
 - [PyCharm + Docker + Python3.7の開発環境構築メモ](https://qiita.com/tomitz/items/722960b124600391f491)
 - [入門pandas - 明日からはじめるデータ分析のきほん](https://shinyorke.hatenablog.com/entry/nyumon-pandas)
