@@ -162,6 +162,8 @@
 
 ## RealPython
 
+- [Pointers in Python: What's the Point?](https://realpython.com/pointers-in-python/)
+- [Python Logging: A Stroll Through the Source Code](https://realpython.com/python-logging-source-code/)
 - [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)
 - [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
 - [How to Use sorted() and sort() in Python](https://realpython.com/python-sort/)
@@ -356,6 +358,9 @@
 
 ## PyQT
 
+- [The ModelView Architecture](https://www.learnpyqt.com/courses/model-views/modelview-architecture/)
+- [No2Pads, a simple Notepad clone](https://www.learnpyqt.com/apps/no2pads-simple-notepad-clone/)
+- [First steps with Qt Creator](https://www.learnpyqt.com/courses/qt-creator/first-steps-qt-creator/)
 - [PyQt5 tutorial](https://build-system.fman.io/pyqt5-tutorial)
 - [Python Qt5 - most simple QTreeWidget - part 001.](https://python-catalin.blogspot.com/2018/12/python-qt5-most-simple-qtreewidget-part.html)
 - [Python Qt5 - simple draw with QPainter.](https://python-catalin.blogspot.com/2018/12/python-qt5-simple-draw-with-qpainter.html)
@@ -424,6 +429,9 @@
 
 ## Asynchronous
 
+- [Multi Threading in python. (Part 1)](https://medium.com/@mishraneel99/multi-threading-in-python-part-1-c7ae39347dd0)
+- [Pythonでmultiprocessingを用いて並列実行するときに、プロセスそれぞれの進捗バーをtqdmで表示する](https://qiita.com/nkato_/items/9e2c75013d44050851ed)
+- [Overview of Async IO in Python 3.7](https://stackabuse.com/overview-of-async-io-in-python-3-7/)
 - [Python で大量のファイルを並列で速く読み込む](https://qiita.com/hoto17296/items/586dc01aee69cd4915cc)
 - [非同期スレッドでキューを処理する](https://qiita.com/John_sugai/items/a63707aac2cdcccb6127)
 - [Pythonの並列処理・並行処理をしっかり調べてみた](https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac)
@@ -486,6 +494,15 @@
 
 ## Python
 
+- [Introduction to Python 3.8 new feature — “The Walrus Operator”](https://www.codementor.io/ruturajkiranvaidya/introduction-to-python-3-8-new-feature-the-walrus-operator-vcv2d3zxw)
+- [Python: Check if String Contains Substring](https://stackabuse.com/python-check-if-string-contains-substring/)
+- [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Writing and reading a binary file with python](https://qiita.com/madaikiteruyo/items/dadc99aa29f7eae0cdd0)
+- [Unicode & Character Encodings in Python: A Painless Guide](https://realpython.com/python-encodings-guide/)
+- [Python's Counter - Part 1](https://www.codementor.io/ayivima/python-s-counter-part-1-v1ut4ygi8)
+- [VSCodeでPythonの自作モジュールにも補完を効かせる方法](https://qiita.com/hrsma2i/items/850d603878d917a1c942)
+- [Better Unbound Python Descriptors](https://programmingideaswithjake.wordpress.com/2019/05/18/better-unbound-python-descriptors/)
+- [Remote Debugging Guide for Python](https://www.codementor.io/jorgecolon/remote-debugging-in-python-v1cbnej91)
 - [Python Modules | All You Need To Know](https://www.codementor.io/waseem599/python-modules-all-you-need-to-know-v1rvvdbt7)
 - [Python For Loops: A Tutorial](https://www.dataquest.io/blog/python-for-loop-tutorial/)
 - [Test Driven Development with pytest](https://stackabuse.com/test-driven-development-with-pytest/)
@@ -867,6 +884,9 @@
 
 ## Misc
 
+- [PythonでLINEにメッセージを送る](https://qiita.com/moriita/items/5b199ac6b14ceaa4f7c9)
+- [docker-composeでpythonを立ち上げてみた（Dockerfile）](https://qiita.com/ezirueziru/items/325fc6d4bbb7799c95ea)
+- [PythonでGoogleCloudStorageへファイルをアップロード・ダウンロードする方法](https://qiita.com/laughingman/items/3a70b1fdc65d4e712cc0)
 - [pythonのOpenPyXLでExcelのデータをとことん読み取る](https://qiita.com/mimitaro/items/2b48b377b14018bdf6cb)
 - [VSCodeでのPythonのデバッグと、Dockerコンテナ環境に接続してリモートデバッグする方法](https://qiita.com/Ryuichirou/items/6327ab5012ca1729d72f)
 - [PyCharm + Docker + Python3.7の開発環境構築メモ](https://qiita.com/tomitz/items/722960b124600391f491)
