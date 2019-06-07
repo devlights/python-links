@@ -494,6 +494,10 @@
 
 ## Python
 
+- [Dataclasses and attrs: when and why](https://www.revsys.com/tidbits/dataclasses-and-attrs-when-and-why/)
+- [Python Function Unpacking ( *args and **kwargs )](https://caisbalderas.com/blog/python-function-unpacking-args-and-kwargs/)
+- [Internals of CPython](https://hackmd.io/@xff9N3eQTLSL4Trq-6setg/ByMHBMjFe)
+- [docker-composeでpythonを立ち上げてみた（Dockerfile）](https://qiita.com/ezirueziru/items/325fc6d4bbb7799c95ea)
 - [Introduction to Python 3.8 new feature — “The Walrus Operator”](https://www.codementor.io/ruturajkiranvaidya/introduction-to-python-3-8-new-feature-the-walrus-operator-vcv2d3zxw)
 - [Python: Check if String Contains Substring](https://stackabuse.com/python-check-if-string-contains-substring/)
 - [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
