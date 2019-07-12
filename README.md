@@ -21,6 +21,8 @@
 
 ## Github
 
+- [rq](https://github.com/rq/rq)
+  - redis queue
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
   - ソースは bitbucket で公開されているが分けるのが面倒なのでここに含めておく
 - [apscheduler](https://github.com/agronholm/apscheduler)
