@@ -6,6 +6,7 @@
 
 - [Github](#github)
 - [RealPython](#realpython)
+- [Edureka](#edureka)
 - [Qiita](#qiita)
 - [tkinter](#tkinter)
 - [wxPython](#wxpython)
@@ -283,6 +284,32 @@
 - [Simplifying Offline Python Deployments With Docker](https://realpython.com/blog/python/offline-python-deployments-with-docker/)
 - [Mocking External APIs in Python](https://realpython.com/blog/python/testing-third-party-apis-with-mocks/)
 - [Building a Simple Web App With Bottle, SQLAlchemy, and the Twitter API](https://realpython.com/blog/python/building-a-simple-web-app-with-bottle-sqlalchemy-twitter-api/)
+
+## Edureka
+
+- [Python Tutorial](https://medium.com/edureka/python-tutorial-be1b3d015745)
+- [Python Programming Language](https://medium.com/edureka/python-programming-language-fc1015de7a6f)
+- [Python Functions](https://medium.com/edureka/python-functions-f0cabca8c4a)
+- [File Handling in Python](https://medium.com/edureka/file-handling-in-python-e0a6ff96ede9)
+- [Python Numpy Tutorial](https://medium.com/edureka/python-numpy-tutorial-89fb8b642c7d)
+- [Scikit Learn Machine Learning](https://medium.com/edureka/scikit-learn-machine-learning-7a2d92e4dd07)
+- [Python Pandas Tutorial](https://medium.com/edureka/python-pandas-tutorial-c5055c61d12e)
+- [Matplotlib Tutorial](https://medium.com/edureka/python-matplotlib-tutorial-15d148a7bfee)
+- [Tkinter Tutorial](https://medium.com/edureka/tkinter-tutorial-f655d3f4c818)
+- [Requests Tutorial](https://medium.com/edureka/python-requests-tutorial-30edabfa6a1c)
+- [OpenCV Tutorial](https://medium.com/edureka/python-opencv-tutorial-5549bd4940e3)
+- [Web Scraping With Python](https://medium.com/edureka/web-scraping-with-python-d9e6506007bf)
+- [PyCharm Tutorial](https://medium.com/edureka/pycharm-tutorial-d0ec9ce6fb60)
+- [Machine Learning Tutorial](https://medium.com/edureka/machine-learning-tutorial-f2883412fba1)
+- [Linear Regression Algorithm from scratch in Python](https://medium.com/edureka/linear-regression-in-python-e66f869cb6ce)
+- [Python for Data Science](https://medium.com/edureka/learn-python-for-data-science-1f9f407943d3)
+- [Loops in Python](https://medium.com/edureka/loops-in-python-fc5b42e2f313)
+- [Python RegEx](https://medium.com/edureka/python-regex-regular-expression-tutorial-f2d17ffcf17e)
+- [Python Projects](https://medium.com/edureka/python-projects-1f401a555ca0)
+- [Arrays in Python](https://medium.com/edureka/arrays-in-python-14aecabec16e)
+- [Sets in Python](https://medium.com/edureka/sets-in-python-a16b410becf4)
+- [Multithreading in Python](https://medium.com/edureka/what-is-mutithreading-19b6349dde0f)
+- [Top 100 Python Interview Questions & Answers For 2019](https://medium.com/edureka/python-interview-questions-a22257bc309f)
 
 ## Qiita
 
