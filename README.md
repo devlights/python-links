@@ -22,6 +22,7 @@
 
 ## Github
 
+- [aiomisc](https://github.com/aiokitchen/aiomisc)
 - [rq](https://github.com/rq/rq)
   - redis queue
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
