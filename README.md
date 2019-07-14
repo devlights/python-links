@@ -166,6 +166,7 @@
 
 ## RealPython
 
+- [Python Type Checking (Guide)](https://realpython.com/python-type-checking/)
 - [Pointers in Python: What's the Point?](https://realpython.com/pointers-in-python/)
 - [Python Logging: A Stroll Through the Source Code](https://realpython.com/python-logging-source-code/)
 - [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)
@@ -524,6 +525,10 @@
 
 ## Python
 
+- [Python Entry Points](https://shaneoneill.io/2019/07/03/python-entry-points/)
+- [Use ```__main__.py```](https://shaneoneill.io/2019/06/12/use-__main__-py/)
+- [PythonのCLIパッケージの作り方](https://www.karakaram.com/how-to-create-python-cli-package)
+- [PyPIにパッケージ登録する](https://qiita.com/edvakf@github/items/d82cd7ab77ea2b88506c)
 - [Dataclasses and attrs: when and why](https://www.revsys.com/tidbits/dataclasses-and-attrs-when-and-why/)
 - [Python Function Unpacking ( *args and **kwargs )](https://caisbalderas.com/blog/python-function-unpacking-args-and-kwargs/)
 - [Internals of CPython](https://hackmd.io/@xff9N3eQTLSL4Trq-6setg/ByMHBMjFe)
