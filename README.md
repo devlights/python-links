@@ -525,6 +525,9 @@
 
 ## Python
 
+- [Python zip function tutorial (Simple Examples)](https://www.codementor.io/likegeeks/python-zip-function-tutorial-simple-examples-x5tnr4mkv)
+- [インタラクティブな可視化が可能なライブラリ「Bokeh」のチュートリアルを試してみた](https://dev.classmethod.jp/server-side/python/bokeh-tutorial/)
+- [map, filter and reduce functions in Python](https://www.codementor.io/wajihaurooj/map-filter-and-reduce-functions-in-python-x8qz2ru0d)
 - [Python Entry Points](https://shaneoneill.io/2019/07/03/python-entry-points/)
 - [Use ```__main__.py```](https://shaneoneill.io/2019/06/12/use-__main__-py/)
 - [PythonのCLIパッケージの作り方](https://www.karakaram.com/how-to-create-python-cli-package)
