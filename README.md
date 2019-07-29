@@ -22,6 +22,8 @@
 
 ## Github
 
+- [snoop](https://github.com/alexmojaki/snoop)
+  - とても見やすいデバッグサポートライブラリ
 - [aiomisc](https://github.com/aiokitchen/aiomisc)
 - [rq](https://github.com/rq/rq)
   - redis queue
