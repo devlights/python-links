@@ -22,6 +22,8 @@
 
 ## Github
 
+- [dlint](https://github.com/duo-labs/dlint)
+  - 静的解析ライブラリ
 - [snoop](https://github.com/alexmojaki/snoop)
   - とても見やすいデバッグサポートライブラリ
 - [aiomisc](https://github.com/aiokitchen/aiomisc)
@@ -168,6 +170,7 @@
 
 ## RealPython
 
+- [How to Use Redis With Python](https://realpython.com/python-redis/)
 - [Python Type Checking (Guide)](https://realpython.com/python-type-checking/)
 - [Pointers in Python: What's the Point?](https://realpython.com/pointers-in-python/)
 - [Python Logging: A Stroll Through the Source Code](https://realpython.com/python-logging-source-code/)
@@ -462,6 +465,7 @@
 
 ## Asynchronous
 
+- [The Celery Python Guide: Basics, Examples and Useful Tips](https://codeburst.io/the-celery-python-guide-basics-examples-and-useful-tips-d8da1fcfaea3)
 - [Multi Threading in python. (Part 1)](https://medium.com/@mishraneel99/multi-threading-in-python-part-1-c7ae39347dd0)
 - [Pythonでmultiprocessingを用いて並列実行するときに、プロセスそれぞれの進捗バーをtqdmで表示する](https://qiita.com/nkato_/items/9e2c75013d44050851ed)
 - [Overview of Async IO in Python 3.7](https://stackabuse.com/overview-of-async-io-in-python-3-7/)
@@ -527,6 +531,8 @@
 
 ## Python
 
+- [5 common mistakes made by beginner python programmers](https://www.pythoncircle.com/post/602/5-common-mistakes-made-by-beginner-python-programmers/)
+- [【初心者向け】図解でわかるNumPyとデータ表現](https://note.mu/sayajewels/n/n95edaedb0fc5)
 - [Python zip function tutorial (Simple Examples)](https://www.codementor.io/likegeeks/python-zip-function-tutorial-simple-examples-x5tnr4mkv)
 - [インタラクティブな可視化が可能なライブラリ「Bokeh」のチュートリアルを試してみた](https://dev.classmethod.jp/server-side/python/bokeh-tutorial/)
 - [map, filter and reduce functions in Python](https://www.codementor.io/wajihaurooj/map-filter-and-reduce-functions-in-python-x8qz2ru0d)
