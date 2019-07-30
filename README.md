@@ -22,6 +22,7 @@
 
 ## Github
 
+- [glom](https://github.com/mahmoud/glom)
 - [dlint](https://github.com/duo-labs/dlint)
   - 静的解析ライブラリ
 - [snoop](https://github.com/alexmojaki/snoop)
@@ -170,6 +171,7 @@
 
 ## RealPython
 
+- [Understanding the Python Traceback](https://realpython.com/python-traceback/)
 - [How to Use Redis With Python](https://realpython.com/python-redis/)
 - [Python Type Checking (Guide)](https://realpython.com/python-type-checking/)
 - [Pointers in Python: What's the Point?](https://realpython.com/pointers-in-python/)
@@ -531,6 +533,7 @@
 
 ## Python
 
+- [GoogleスタイルのPython Docstringの入門](https://qiita.com/11ohina017/items/118b3b42b612e527dc1d)
 - [5 common mistakes made by beginner python programmers](https://www.pythoncircle.com/post/602/5-common-mistakes-made-by-beginner-python-programmers/)
 - [【初心者向け】図解でわかるNumPyとデータ表現](https://note.mu/sayajewels/n/n95edaedb0fc5)
 - [Python zip function tutorial (Simple Examples)](https://www.codementor.io/likegeeks/python-zip-function-tutorial-simple-examples-x5tnr4mkv)
