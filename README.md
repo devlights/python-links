@@ -171,6 +171,7 @@
 
 ## RealPython
 
+- [Create a Flask Application With Google Login](https://realpython.com/flask-google-login/)
 - [Understanding the Python Traceback](https://realpython.com/python-traceback/)
 - [How to Use Redis With Python](https://realpython.com/python-redis/)
 - [Python Type Checking (Guide)](https://realpython.com/python-type-checking/)
@@ -533,6 +534,8 @@
 
 ## Python
 
+- [Mastering Python](https://python.ms/)
+- [Joblibの様々な便利機能を把握する](https://qiita.com/Tatejimaru137/items/c3aabd17196543fdfd20)
 - [GoogleスタイルのPython Docstringの入門](https://qiita.com/11ohina017/items/118b3b42b612e527dc1d)
 - [5 common mistakes made by beginner python programmers](https://www.pythoncircle.com/post/602/5-common-mistakes-made-by-beginner-python-programmers/)
 - [【初心者向け】図解でわかるNumPyとデータ表現](https://note.mu/sayajewels/n/n95edaedb0fc5)
