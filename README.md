@@ -534,6 +534,8 @@
 
 ## Python
 
+- [Starting your first Python project](https://julien.danjou.info/starting-your-first-python-project/)
+- [Handling multipart/form-data natively in Python](https://julien.danjou.info/handling-multipart-form-data-python/)
 - [Mastering Python](https://python.ms/)
 - [Joblibの様々な便利機能を把握する](https://qiita.com/Tatejimaru137/items/c3aabd17196543fdfd20)
 - [GoogleスタイルのPython Docstringの入門](https://qiita.com/11ohina017/items/118b3b42b612e527dc1d)
