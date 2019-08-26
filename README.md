@@ -171,6 +171,8 @@
 
 ## RealPython
 
+- [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+- [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 - [Create a Flask Application With Google Login](https://realpython.com/flask-google-login/)
 - [Understanding the Python Traceback](https://realpython.com/python-traceback/)
 - [How to Use Redis With Python](https://realpython.com/python-redis/)
@@ -465,6 +467,7 @@
 - [wxPython tutorial](http://zetcode.com/wxpython/)
 - [wxWidgets tutorial](http://zetcode.com/gui/wxwidgets/)
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+- [Python Tutorial – Learn Python Programming Step By Step](https://www.techbeamers.com/python-tutorial-step-by-step/)
 
 ## Asynchronous
 
@@ -534,6 +537,8 @@
 
 ## Python
 
+- [Pythonスクリプトが実行されるまでにできるもの](https://qiita.com/intermezzo-fr/items/3ae7645bd7d4414d9607)
+- [Awesome New Python 3.8 Features](https://school.geekwall.in/p/H1RHVfPlB/awesome-new-python-3-8-features)
 - [Starting your first Python project](https://julien.danjou.info/starting-your-first-python-project/)
 - [Handling multipart/form-data natively in Python](https://julien.danjou.info/handling-multipart-form-data-python/)
 - [Mastering Python](https://python.ms/)
