@@ -171,6 +171,7 @@
 
 ## RealPython
 
+- [PyCharm for Productive Python Development (Guide)](https://realpython.com/pycharm-guide/)
 - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
 - [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 - [Create a Flask Application With Google Login](https://realpython.com/flask-google-login/)
@@ -890,6 +891,7 @@
 
 ## WebFrameworks
 
+- [Introduction to the Python Pyramid Framework](https://stackabuse.com/introduction-to-the-python-pyramid-framework/)
 - [Flask by Example – Project Setup](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 - [Flask by Example – Setting up Postgres, SQLAlchemy, and Alembic](https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
 - [Flask by Example – Text Processing with Requests, BeautifulSoup, and NLTK](https://realpython.com/blog/python/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/)
