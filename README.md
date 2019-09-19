@@ -171,6 +171,10 @@
 
 ## RealPython
 
+- [How to Use Python lambda Functions](https://realpython.com/python-lambda/)
+- [How to Build Command Line Interfaces in Python With argparse](https://realpython.com/command-line-interfaces-python-argparse/)
+- [How to Make a Twitter Bot in Python With Tweepy](https://realpython.com/twitter-bot-python-tweepy/)
+- [How to Implement a Python Stack](https://realpython.com/how-to-implement-python-stack/)
 - [PyCharm for Productive Python Development (Guide)](https://realpython.com/pycharm-guide/)
 - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
 - [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
@@ -472,6 +476,7 @@
 
 ## Asynchronous
 
+- [Concurrency with Python: CSP and Coroutines](https://bytes.yingw787.com/posts/2019/02/09/concurrency_with_python_csp_and_coroutines/#overview)
 - [The Celery Python Guide: Basics, Examples and Useful Tips](https://codeburst.io/the-celery-python-guide-basics-examples-and-useful-tips-d8da1fcfaea3)
 - [Multi Threading in python. (Part 1)](https://medium.com/@mishraneel99/multi-threading-in-python-part-1-c7ae39347dd0)
 - [Pythonでmultiprocessingを用いて並列実行するときに、プロセスそれぞれの進捗バーをtqdmで表示する](https://qiita.com/nkato_/items/9e2c75013d44050851ed)
@@ -538,6 +543,7 @@
 
 ## Python
 
+- [Current Status of Python Packaging - 2019](https://stefanoborini.com/current-status-of-python-packaging/)
 - [Pythonスクリプトが実行されるまでにできるもの](https://qiita.com/intermezzo-fr/items/3ae7645bd7d4414d9607)
 - [Awesome New Python 3.8 Features](https://school.geekwall.in/p/H1RHVfPlB/awesome-new-python-3-8-features)
 - [Starting your first Python project](https://julien.danjou.info/starting-your-first-python-project/)
@@ -805,7 +811,7 @@
 - [Pythonでバウンドインナークラスを使う (Python Advent Calendar 2013 最終日)](http://hirokiky-blog.readthedocs.io/2013/12/25/python_advent_calendar_2013_25th.html)
 - [Pythonでファイルディスクリプタをサブプロセスに渡す](https://tokibito.hatenablog.com/entry/2016/10/23/042920)
 - [Python Memory Management](http://deeplearning.net/software/theano/tutorial/python-memory-management.html)
-- [Loop better: A deeper look at iteration in Python](https://getpocket.com/a/read/2147102191)
+- [Loop better: A deeper look at iteration in Python](https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python/)
 - [Pythonでloggingモジュール使ってライブラリ内でログ出力する時のまとめ](https://aoishi.hateblo.jp/entry/2017/10/09/021054)
 - [Python 3.7: Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
 - [Dataclasses: The code generator to end all code generators (PDF)](https://www.dropbox.com/s/m8pwkkz43qz5pgt/HettingerPycon2018.pdf)
