@@ -22,6 +22,7 @@
 
 ## Github
 
+- [pyforms-gui](https://github.com/UmSenhorQualquer/pyforms-gui)
 - [glom](https://github.com/mahmoud/glom)
 - [dlint](https://github.com/duo-labs/dlint)
   - 静的解析ライブラリ
