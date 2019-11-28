@@ -172,6 +172,7 @@
 
 ## RealPython
 
+- [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 - [How to Use Python lambda Functions](https://realpython.com/python-lambda/)
 - [How to Build Command Line Interfaces in Python With argparse](https://realpython.com/command-line-interfaces-python-argparse/)
 - [How to Make a Twitter Bot in Python With Tweepy](https://realpython.com/twitter-bot-python-tweepy/)
@@ -477,6 +478,7 @@
 
 ## Asynchronous
 
+- [asyncioでPythonの非同期処理を書いてみる](https://dev.classmethod.jp/etc/python-asyncio/)
 - [Concurrency with Python: CSP and Coroutines](https://bytes.yingw787.com/posts/2019/02/09/concurrency_with_python_csp_and_coroutines/#overview)
 - [The Celery Python Guide: Basics, Examples and Useful Tips](https://codeburst.io/the-celery-python-guide-basics-examples-and-useful-tips-d8da1fcfaea3)
 - [Multi Threading in python. (Part 1)](https://medium.com/@mishraneel99/multi-threading-in-python-part-1-c7ae39347dd0)
