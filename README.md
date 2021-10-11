@@ -172,6 +172,12 @@
 
 ## RealPython
 
+- Cool New Feature series
+  - [Cool New Features in Python 3.7](https://realpython.com/python37-new-features/)
+  - [Cool New Features in Python 3.8](https://realpython.com/python38-new-features/)
+  - [Python 3.9: Cool New Features for You to Try](https://realpython.com/python39-new-features/)
+  - [Python 3.10: Cool New Features for You to Try](https://realpython.com/python310-new-features/)
+
 - [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 - [How to Use Python lambda Functions](https://realpython.com/python-lambda/)
 - [How to Build Command Line Interfaces in Python With argparse](https://realpython.com/command-line-interfaces-python-argparse/)
@@ -897,6 +903,7 @@
 - [Python Iterators: A Step-By-Step Introduction](https://dbader.org/blog/python-iterators)
 - [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 - [Python SQLite3 Basics](http://nitratine.net/python-sqlite3-basics/)
+- [venvで作成した仮想環境内のPythonバージョンを変更したい](https://dev.classmethod.jp/articles/change-venv-python-version/)
 
 ## WebFrameworks
 
