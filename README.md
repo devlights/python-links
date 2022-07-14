@@ -481,6 +481,7 @@
 - [wxWidgets tutorial](http://zetcode.com/gui/wxwidgets/)
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 - [Python Tutorial – Learn Python Programming Step By Step](https://www.techbeamers.com/python-tutorial-step-by-step/)
+- [The Comprehensive Guide to mypy](https://devlights-pythonlinks-4nh7jnis1k3.ws-us54.gitpod.io/)
 
 ## Asynchronous
 
