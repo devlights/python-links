@@ -905,6 +905,7 @@
 - [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 - [Python SQLite3 Basics](http://nitratine.net/python-sqlite3-basics/)
 - [venvで作成した仮想環境内のPythonバージョンを変更したい](https://dev.classmethod.jp/articles/change-venv-python-version/)
+- [Python の基礎 - Python をゼ​​ロから学ぶ](https://www.scaler.com/topics/python)
 
 ## WebFrameworks
 
